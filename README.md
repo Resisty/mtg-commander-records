@@ -28,7 +28,7 @@ The darkest of the dark. You monster. TBD.
 Harder as you go up. Can you get to the top?
 
  Name | Description | Tiers
-:----:|:-----------:|------:
+:----:|:-----------:|:------
 <a name="destroyer-of-worlds">Destroyer of Worlds</a> | Destroy Many permanents with a single spell! | <img src="http://brianauron.info/img/mtg_common_symbol.png"> 20<br/><img src="http://brianauron.info/img/mtg_uncommon_symbol.png"> 50<br/><img src="http://brianauron.info/img/mtg_rare_symbol.png"> 70<br/><img src="http://brianauron.info/img/mtg_mythic_symbol.png"> 100
 <a name="need-for-speed">Need For Speed</a> | Win very fast! | <img src="http://brianauron.info/img/mtg_common_symbol.png"> 5 turns<br/><img src="http://brianauron.info/img/mtg_uncommon_symbol.png"> 3 turns<br/><img src="http://brianauron.info/img/mtg_rare_symbol.png"> 1 turns<br/><img src="http://brianauron.info/img/mtg_mythic_symbol.png"> 0 turns
 <a name="overkill">Overkill</a> | Jeez, do you think your oppnent is dead yet? Win with your opponent(s) at negative life! | <img src="http://brianauron.info/img/mtg_common_symbol.png"> -25 hp<br/><img src="http://brianauron.info/img/mtg_uncommon_symbol.png"> -50 hp<br/><img src="http://brianauron.info/img/mtg_rare_symbol.png"> -100 hp<br/><img src="http://brianauron.info/img/mtg_mythic_symbol.png"> -200 hp

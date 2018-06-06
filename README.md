@@ -15,6 +15,14 @@ Simple and clean, just some achievements
 <a name="pantheon">Pantheon</a> | Have all gods (of a given set) in play at the same time!
 <a name="pantheonandonandon">Pantheonandonandon</a> | Have all gods ever printed by WotC in play at the same time! (Is this possible?)
 
+## Island Achievements
+
+No man is an island? Or something? TBD.
+
+## Swamp Achievements
+
+The darkest of the dark. You monster. TBD.
+
 ##  Mountains Achievements
 
 Harder as you go up. Can you get to the top?
@@ -22,6 +30,10 @@ Harder as you go up. Can you get to the top?
  Name | Description | Tiers
 :----:|:-----------:|:----:
 <a name="destroyer-of-world">Destroyer of Worlds</a> | Destroy Many permanents with a single spell! | <img src="http://brianauron.info/img/mtg_common_symbol.png"> 20 <img src="http://brianauron.info/img/mtg_uncommon_symbol.png"> 50 <img src="http://brianauron.info/img/mtg_rare_symbol.png"> 70 <img src="http://brianauron.info/img/mtg_mythic_symbol.png"> 100
+
+## Forest Achievements
+
+I don't have a joke for this one yet. TBD.
 
 ## Achievement Holders
 

@@ -6,7 +6,7 @@ This project serves as a record of weird and/or awesome Achievements earned by p
 
  Name | Description
 :----:|:-----------:
-<a name="inanimate-object-commander">Inanimate Object Commander Victory</a> | Using a deck with an Inanimate Object (non-creature, non-planeswalker), Achieve Victory!
+<a name="inanimate-object-commander">Inanimate Object Commander Victory</a> | Using a deck with an Inanimate Object (non-creature, non-planeswalker) as your commander, Achieve Victory!
 <a name="durdle-hurdle">Durdle Hurdle</a> | Overcome your opponents and Achieve Victory with a Durdle Sequence of a minimum of 10 steps!
 <a name="44-magnum">.44 Magnum</a> | Deal 21+ Commander Damage in one hit (double-strike is a Technical Achievement, but you can do better)
 <a name="atheism">Atheism</a> | Defeat a deck with at least one god in it when your deck has no gods or the possibility of having one (at no point can one of your creatures or cards have the subtype "god")

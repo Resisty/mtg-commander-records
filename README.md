@@ -17,5 +17,5 @@ This project serves as a record of weird and/or awesome Achievements earned by p
 
  Name | Achievement | Date | Decklist
 :----:|:-----------:|:----:|:--------:
-Brian Auron|[Inanimate Object Commander](#user-content-inanimate-object-commander)|May something 2018?|<a href="https://manastack.com/deck/volrath-the-fallen-3">Volrath, the Fallen</a>
+Brian Auron|[44 Magnum](#user-content-44-magnum)|May something 2018?|<a href="https://manastack.com/deck/volrath-the-fallen-3">Volrath, the Fallen</a>
 Jared Egenes|[Durdle Hurdle](#user-content-durdle-hurdle)|June 5 2018|Whatever that insane Vial Smasher + Ikra Shidiqi deck was

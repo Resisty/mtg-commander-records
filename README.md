@@ -59,7 +59,7 @@ Check out the [creature type system](https://mtg.gamepedia.com/Class) for refere
  Name | Description
 :----:|:------------
 <a name="tribal">Tribal</a> | <img src="http://brianauron.info/img/mtg_common_symbol.png"> Win a game only playing a single iconic creature class, e.g. Angel.
-<a name="commune">Commune</a> | <img src="http://brianauron.info/img/mtg_uncommon_symbol.png"> Win a game only playing a single characteristic creature class, e.g. Human..
+<a name="commune">Commune</a> | <img src="http://brianauron.info/img/mtg_uncommon_symbol.png"> Win a game only playing a single characteristic creature class, e.g. Human.
 <a name="phylum">Phylum</a> | <img src="http://brianauron.info/img/mtg_rare_symbol.png"> Win a game only playing a single "other" creature class, e.g. Wombat.
 <a name="speciation">Speciation</a> | <img src="http://brianauron.info/img/mtg_mythic_symbol.png"> Win a game only playing a single token creature class, e.g. Caribou.
 

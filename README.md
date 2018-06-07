@@ -27,7 +27,7 @@ I got the blues. These dubious "achievements" will git you got, too.
 
 ## Swamp Achievements
 
-The darkest of the dark. You monster. TBD.
+The darkest of the dark. You monster.
 
  Name | Description
 :----:|:-----------:

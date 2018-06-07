@@ -71,6 +71,6 @@ Check out the [creature type system](https://mtg.gamepedia.com/Class) for refere
 
  Name | Achievement | Date | Decklist
 :----:|:-----------:|:----:|:--------:
-Brian Auron|[.44 Magnum](#user-content-44-magnum), [Blackjack](#user-content-blackjack)<img src="http://brianauron.info/img/mtg_common_symbol.png">|May something 2018?|<a href="https://manastack.com/deck/volrath-the-fallen-3">Volrath, the Fallen</a>
+Brian Auron|[.44 Magnum](#user-content-44-magnum)<br/>[Blackjack](#user-content-blackjack)<img src="http://brianauron.info/img/mtg_common_symbol.png">|May something 2018?|<a href="https://manastack.com/deck/volrath-the-fallen-3">Volrath, the Fallen</a>
 Jared Egenes|[Durdle Hurdle](#user-content-durdle-hurdle)|June 5 2018|Whatever that insane Vial Smasher + Ikra Shidiqi deck was
 Ashton Hunger|[Frienemy](#user-content-frienemy)|May 30 2018... *_twice_*|Sharuum the Hegemon

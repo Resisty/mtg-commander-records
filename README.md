@@ -73,7 +73,7 @@ Check out the [creature type system](https://mtg.gamepedia.com/Class) for refere
 Achievement | Date | Decklist
 :-----------:|:----:|:--------:
 [.44 Magnum](#user-content-44-magnum)<br/>[Blackjack](#user-content-blackjack) <img src="http://brianauron.info/img/mtg_common_symbol.png">|May something 2018?|<a href="https://manastack.com/deck/volrath-the-fallen-3">Volrath, the Fallen</a>
-Brian Auron|[Draw](#user-content-draw)|June 6 2018|[Jodah, Archmage Eternal](https://manastack.com/deck/jodah-archmage-eternal-cyclist)
+[Draw](#user-content-draw)|June 6 2018|[Jodah, Archmage Eternal](https://manastack.com/deck/jodah-archmage-eternal-cyclist)
 
 ### Jared
 Achievement | Date | Decklist

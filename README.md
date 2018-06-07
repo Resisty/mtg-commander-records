@@ -19,7 +19,11 @@ Simple and clean, just some achievements
 
 ## Island Achievements
 
-No man is an island? Or something? TBD.
+I got the blues. These dubious "achievements" will git you got, too. 
+
+ Name | Description
+:----:|:-----------:
+<a name="draw">Draw</a> | Card draw is one thing, game draw is another. Draw a game without timing out because lunch is over.
 
 ## Swamp Achievements
 

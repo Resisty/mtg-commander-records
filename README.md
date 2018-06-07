@@ -1,6 +1,6 @@
 # What?
 
-This project serves as a record of weird and/or awesome Achievements earned by players in my gaming group over games of Magic: The Gather, Commander format. It also stores links to their decklists, when available.
+This project serves as a record of weird and/or awesome Achievements earned by players in my gaming group over games of Magic: The Gathering, Commander format. It also stores links to their decklists, when available.
 
 ## Plains Achievements
 

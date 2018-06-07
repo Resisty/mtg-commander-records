@@ -29,6 +29,10 @@ I got the blues. These dubious "achievements" will git you got, too.
 
 The darkest of the dark. You monster. TBD.
 
+ Name | Description
+:----:|:-----------:
+<a name="Frienemy">Frienemy</a> | Snatch your opponent from the jaws of defeat... then crush them. Win after saving an opponent.
+
 ## Mountain Achievements
 
 Harder as you go up. Can you get to the top?
@@ -69,3 +73,4 @@ Check out the [creature type system](https://mtg.gamepedia.com/Class) for refere
 :----:|:-----------:|:----:|:--------:
 Brian Auron|[44 Magnum](#user-content-44-magnum)|May something 2018?|<a href="https://manastack.com/deck/volrath-the-fallen-3">Volrath, the Fallen</a>
 Jared Egenes|[Durdle Hurdle](#user-content-durdle-hurdle)|June 5 2018|Whatever that insane Vial Smasher + Ikra Shidiqi deck was
+Ashton Hunger|[Frienemy](#user-content-frienemy)|May 30 2018... *_twice_*|Sharuum the Hegemon

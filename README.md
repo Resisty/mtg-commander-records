@@ -73,16 +73,16 @@ The plane-city of Ravnica boasts challenges few can best. Can you earn two diffe
 
  Name | Description
 :----:|:------------
-<a name="azorius">Azorius</a> | <img src="http://brianauron.info/img/azorius.png"> Earn Plains and Island achievements in the same game!.
-<a name="orzhov">Orzhov</a> | <img src="http://brianauron.info/img/orzhov.png"> Earn Plains and Swamp achievements in the same game!.
-<a name="dimir">Dimir</a> | <img src="http://brianauron.info/img/dimir.png"> Earn Island and Swamp achievements in the same game!.
-<a name="izzet">Izzet</a> | <img src="http://brianauron.info/img/izzet.png"> Earn Island and Mountain achievements in the same game!.
-<a name="rakdos">Rakdos</a> | <img src="http://brianauron.info/img/rakdos.png"> Earn Swamp and Mountain achievements in the same game!.
-<a name="golgari">Golgari</a> | <img src="http://brianauron.info/img/golgari.png"> Earn Swamp and Forest  achievements in the same game!.
-<a name="gruul">Gruul</a> | <img src="http://brianauron.info/img/gruul.png"> Earn Mountain and Forest achievements in the same game!.
-<a name="boros">Boros</a> | <img src="http://brianauron.info/img/boros.png"> Earn Plains and Mountain achievements in the same game!.
-<a name="selesnya">Selesnya</a> | <img src="http://brianauron.info/img/selesnya.png"> Earn Plains and Forest achievements in the same game!.
-<a name="simic">Simic</a> | <img src="http://brianauron.info/img/simic.png"> Earn Island and Forest achievements in the same game!.
+<a name="azorius">Azorius</a> | <img src="http://brianauron.info/img/azorius_symbol.png"> Earn Plains and Island achievements in the same game!.
+<a name="orzhov">Orzhov</a> | <img src="http://brianauron.info/img/orzhov_symbol.png"> Earn Plains and Swamp achievements in the same game!.
+<a name="dimir">Dimir</a> | <img src="http://brianauron.info/img/dimir_symbol.png"> Earn Island and Swamp achievements in the same game!.
+<a name="izzet">Izzet</a> | <img src="http://brianauron.info/img/izzet_symbol.png"> Earn Island and Mountain achievements in the same game!.
+<a name="rakdos">Rakdos</a> | <img src="http://brianauron.info/img/rakdos_symbol.png"> Earn Swamp and Mountain achievements in the same game!.
+<a name="golgari">Golgari</a> | <img src="http://brianauron.info/img/golgari_symbol.png"> Earn Swamp and Forest  achievements in the same game!.
+<a name="gruul">Gruul</a> | <img src="http://brianauron.info/img/gruul_symbol.png"> Earn Mountain and Forest achievements in the same game!.
+<a name="boros">Boros</a> | <img src="http://brianauron.info/img/boros_symbol.png"> Earn Plains and Mountain achievements in the same game!.
+<a name="selesnya">Selesnya</a> | <img src="http://brianauron.info/img/selesnya_symbol.png"> Earn Plains and Forest achievements in the same game!.
+<a name="simic">Simic</a> | <img src="http://brianauron.info/img/simic_symbol.png"> Earn Island and Forest achievements in the same game!.
 
 ## Shard/Wedge Achievements
 
@@ -90,16 +90,16 @@ The shards of Alara and clans of Tarkir boast challenges as well! Can you earn _
 
  Name | Description
 :----:|:------------
-<a name="jeskai">Jeskai</a> | <img src="http://brianauron.info/img/jeskai.png"> Earn Plains, Island, and Mountain achievements in the same game!
-<a name="esper">Esper</a> | <img src="http://brianauron.info/img/esper.png"> Earn Plains, Island, and Swamp achievements in the same game!
-<a name="sultai">Sultai</a> | <img src="http://brianauron.info/img/sultai.png"> Earn Island, Swamp, and Forest achievements in the same game!
-<a name="grixis">Grixis</a> | <img src="http://brianauron.info/img/grixis.png"> Earn Island, Swamp, and Mountain achievements in the same game!
-<a name="mardu">Mardu</a> | <img src="http://brianauron.info/img/mardu.png"> Earn Plains, Swamp, and Mountain achievements in the same game!
-<a name="jund">Jund</a> | <img src="http://brianauron.info/img/jund.png"> Earn Swamp, Mountain, and Forest achievements in the same game!
-<a name="temur">Temur</a> | <img src="http://brianauron.info/img/temur.png"> Earn Island, Mountain, and Forest achievements in the same game!
-<a name="naya">Naya</a> | <img src="http://brianauron.info/img/naya.png"> Earn Plains, Mountain, and Forest achievements in the same game!
-<a name="abzan">Abzan</a> | <img src="http://brianauron.info/img/abzan.png"> Earn Plains, Swamp, and Forest achievements in the same game!
-<a name="bant">Bant</a> | <img src="http://brianauron.info/img/bant.png"> Earn Plains, Island, and Forest achievements in the same game!
+<a name="jeskai">Jeskai</a> | <img src="http://brianauron.info/img/jeskai_symbol.png"> Earn Plains, Island, and Mountain achievements in the same game!
+<a name="esper">Esper</a> | <img src="http://brianauron.info/img/esper_symbol.png"> Earn Plains, Island, and Swamp achievements in the same game!
+<a name="sultai">Sultai</a> | <img src="http://brianauron.info/img/sultai_symbol.png"> Earn Island, Swamp, and Forest achievements in the same game!
+<a name="grixis">Grixis</a> | <img src="http://brianauron.info/img/grixis_symbol.png"> Earn Island, Swamp, and Mountain achievements in the same game!
+<a name="mardu">Mardu</a> | <img src="http://brianauron.info/img/mardu_symbol.png"> Earn Plains, Swamp, and Mountain achievements in the same game!
+<a name="jund">Jund</a> | <img src="http://brianauron.info/img/jund_symbol.png"> Earn Swamp, Mountain, and Forest achievements in the same game!
+<a name="temur">Temur</a> | <img src="http://brianauron.info/img/temur_symbol.png"> Earn Island, Mountain, and Forest achievements in the same game!
+<a name="naya">Naya</a> | <img src="http://brianauron.info/img/naya_symbol.png"> Earn Plains, Mountain, and Forest achievements in the same game!
+<a name="abzan">Abzan</a> | <img src="http://brianauron.info/img/abzan_symbol.png"> Earn Plains, Swamp, and Forest achievements in the same game!
+<a name="bant">Bant</a> | <img src="http://brianauron.info/img/bant_symbol.png"> Earn Plains, Island, and Forest achievements in the same game!
 
 ## Nephilim Achievements
 

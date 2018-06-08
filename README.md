@@ -75,7 +75,10 @@ The plane-city of Ravnica boasts challenges few can best. Can you earn two diffe
 :----:|:------------
 <a name="azorius">Azorius</a> | <img src="http://brianauron.info/img/azorius.png"> Earn Plains and Island achievements in the same game!.
 <a name="orzhov">Orzhov</a> | <img src="http://brianauron.info/img/orzhov.png"> Earn Plains and Swamp achievements in the same game!.
+<a name="dimir">Dimir</a> | <img src="http://brianauron.info/img/dimir.png"> Earn Island and Swamp achievements in the same game!.
+<a name="izzet">Izzet</a> | <img src="http://brianauron.info/img/izzet.png"> Earn Island and Mountain achievements in the same game!.
 <a name="rakdos">Rakdos</a> | <img src="http://brianauron.info/img/rakdos.png"> Earn Swamp and Mountain achievements in the same game!.
+<a name="golgari">Golgari</a> | <img src="http://brianauron.info/img/golgari.png"> Earn Swamp and Forest  achievements in the same game!.
 <a name="gruul">Gruul</a> | <img src="http://brianauron.info/img/gruul.png"> Earn Mountain and Forest achievements in the same game!.
 <a name="boros">Boros</a> | <img src="http://brianauron.info/img/boros.png"> Earn Plains and Mountain achievements in the same game!.
 <a name="selesnya">Selesnya</a> | <img src="http://brianauron.info/img/selesnya.png"> Earn Plains and Forest achievements in the same game!.

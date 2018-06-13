@@ -1,3 +1,23 @@
+<!--ts-->
+   * [What?](#what)
+      * [Plains Achievements](#plains-achievements)
+      * [Island Achievements](#island-achievements)
+      * [Swamp Achievements](#swamp-achievements)
+      * [Mountain Achievements](#mountain-achievements)
+      * [Forest Achievements](#forest-achievements)
+      * [Guild Achievements](#guild-achievements)
+      * [Shard/Wedge Achievements](#shardwedge-achievements)
+      * [Nephilim Achievements](#nephilim-achievements)
+      * [Rainbow Achievement](#rainbow-achievement)
+   * [Achievement Holders](#achievement-holders)
+      * [Brian](#brian)
+      * [Jared](#jared)
+      * [Ashton](#ashton)
+      * [Ben](#ben)
+
+<!-- Added by: briauron, at: 2018-06-13T18:06:58Z -->
+
+<!--te-->
 # What?
 
 This project serves as a record of weird and/or awesome Achievements earned by players in my gaming group over games of Magic: The Gathering, Commander format. It also stores links to their decklists, when available.
@@ -132,6 +152,7 @@ Achievement | Date | Decklist
 :-----------:|:----:|:--------:
 [.44 Magnum](#user-content-44-magnum)<br/>[Blackjack](#user-content-blackjack) <img src="http://brianauron.info/img/mtg_common_symbol.png">|May something 2018?|<a href="https://manastack.com/deck/volrath-the-fallen-3">Volrath, the Fallen</a>
 [Draw](#user-content-draw)|June 6 2018|[Jodah, Archmage Eternal](https://manastack.com/deck/jodah-archmage-eternal-cyclist)
+[Durdle Hurdle](#user-content-durdle-hurdle)|June 12 2018|<a href="https://manastack.com/deck/jhoira-weatherlight-captain-12">Jhoira, Weatherlight Captain (but with more mana rocks)</a>
 
 ## Jared
 Achievement | Date | Decklist

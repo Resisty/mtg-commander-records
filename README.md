@@ -68,26 +68,83 @@ Check out the [creature type system](https://mtg.gamepedia.com/Class) for refere
 <a name="phylum">Phylum</a> | <img src="http://brianauron.info/img/mtg_rare_symbol.png"> Win a game only playing a single "other" creature class, e.g. Wombat.
 <a name="speciation">Speciation</a> | <img src="http://brianauron.info/img/mtg_mythic_symbol.png"> Win a game only playing a single token creature class, e.g. Caribou.
 
-## Achievement Holders
+## Guild Achievements
 
-### Brian
+The plane-city of Ravnica boasts challenges few can best. Can you earn two different colors of achievements in a single game?
+
+ Name | Description
+:----:|:------------
+<a name="azorius">Azorius</a> | <img src="http://brianauron.info/img/azorius_symbol.png"> Earn Plains and Island achievements in the same game!.
+<a name="orzhov">Orzhov</a> | <img src="http://brianauron.info/img/orzhov_symbol.png"> Earn Plains and Swamp achievements in the same game!.
+<a name="dimir">Dimir</a> | <img src="http://brianauron.info/img/dimir_symbol.png"> Earn Island and Swamp achievements in the same game!.
+<a name="izzet">Izzet</a> | <img src="http://brianauron.info/img/izzet_symbol.png"> Earn Island and Mountain achievements in the same game!.
+<a name="rakdos">Rakdos</a> | <img src="http://brianauron.info/img/rakdos_symbol.png"> Earn Swamp and Mountain achievements in the same game!.
+<a name="golgari">Golgari</a> | <img src="http://brianauron.info/img/golgari_symbol.png"> Earn Swamp and Forest  achievements in the same game!.
+<a name="gruul">Gruul</a> | <img src="http://brianauron.info/img/gruul_symbol.png"> Earn Mountain and Forest achievements in the same game!.
+<a name="boros">Boros</a> | <img src="http://brianauron.info/img/boros_symbol.png"> Earn Plains and Mountain achievements in the same game!.
+<a name="selesnya">Selesnya</a> | <img src="http://brianauron.info/img/selesnya_symbol.png"> Earn Plains and Forest achievements in the same game!.
+<a name="simic">Simic</a> | <img src="http://brianauron.info/img/simic_symbol.png"> Earn Island and Forest achievements in the same game!.
+
+## Shard/Wedge Achievements
+
+The shards of Alara and clans of Tarkir boast challenges as well! Can you earn _three_ different colors of achievements in a single game!?
+
+ Name | Description
+:----:|:------------
+<a name="jeskai">Jeskai</a> | <img src="http://brianauron.info/img/jeskai_symbol.png"> Earn Plains, Island, and Mountain achievements in the same game!
+<a name="esper">Esper</a> | <img src="http://brianauron.info/img/esper_symbol.png"> Earn Plains, Island, and Swamp achievements in the same game!
+<a name="sultai">Sultai</a> | <img src="http://brianauron.info/img/sultai_symbol.png"> Earn Island, Swamp, and Forest achievements in the same game!
+<a name="grixis">Grixis</a> | <img src="http://brianauron.info/img/grixis_symbol.png"> Earn Island, Swamp, and Mountain achievements in the same game!
+<a name="mardu">Mardu</a> | <img src="http://brianauron.info/img/mardu_symbol.png"> Earn Plains, Swamp, and Mountain achievements in the same game!
+<a name="jund">Jund</a> | <img src="http://brianauron.info/img/jund_symbol.png"> Earn Swamp, Mountain, and Forest achievements in the same game!
+<a name="temur">Temur</a> | <img src="http://brianauron.info/img/temur_symbol.png"> Earn Island, Mountain, and Forest achievements in the same game!
+<a name="naya">Naya</a> | <img src="http://brianauron.info/img/naya_symbol.png"> Earn Plains, Mountain, and Forest achievements in the same game!
+<a name="abzan">Abzan</a> | <img src="http://brianauron.info/img/abzan_symbol.png"> Earn Plains, Swamp, and Forest achievements in the same game!
+<a name="bant">Bant</a> | <img src="http://brianauron.info/img/bant_symbol.png"> Earn Plains, Island, and Forest achievements in the same game!
+
+## Nephilim Achievements
+
+When they awoke, their challenges roared across the multiverse. Can you earn *_four_* different colors of achievements in a single game!?
+
+ Name | Description
+:----:|:------------
+<a name="glint-eye">Glint-Eye</a> | Earn Island, Swamp, Mountain, and Forest achievements in the same game!
+<a name="dune-brood">Dune-Brood</a> | Earn Plains, Swamp, Mountain, and Forest achievements in the same game!
+<a name="ink-treader">Ink-Treader</a> | Earn Plains, Island, Mountain, and Forest achievements in the same game!
+<a name="witch-maw">Witch-Maw</a> | Earn Plains, Island, Swamp, and Forest achievements in the same game!
+<a name="yore-tiller">Yore-Tiller</a> | Earn Plains, Island, Swamp, and Mountain achievements in the same game!
+
+## Rainbow Achievement
+
+Unite all five colors of Magic in a dazzling display of power. Can you earn *_ALL FIVE_* colors of achievements in a single game?!
+
+ Name | Description
+:----:|:------------
+<a name="wubrg">WUBRG</a> | Earn Plains, Island, Swamp, Mountain, and Forest achievements in the same game!
+
+---
+---
+
+# Achievement Holders
+
+## Brian
 Achievement | Date | Decklist
 :-----------:|:----:|:--------:
 [.44 Magnum](#user-content-44-magnum)<br/>[Blackjack](#user-content-blackjack) <img src="http://brianauron.info/img/mtg_common_symbol.png">|May something 2018?|<a href="https://manastack.com/deck/volrath-the-fallen-3">Volrath, the Fallen</a>
 [Draw](#user-content-draw)|June 6 2018|[Jodah, Archmage Eternal](https://manastack.com/deck/jodah-archmage-eternal-cyclist)
 
-### Jared
+## Jared
 Achievement | Date | Decklist
 :-----------:|:----:|:--------:
 [Durdle Hurdle](#user-content-durdle-hurdle)|June 5 2018|Whatever that insane Vial Smasher + Ikra Shidiqi deck was
 [Shared Victory](#user-content-share)|June 12 2018|Power Cube Draft Deck
 
-### Ashton
+## Ashton
 Achievement | Date | Decklist
 :-----------:|:----:|:--------:
 [Frienemy](#user-content-frienemy)|May 30 2018... *_twice_*|Sharuum the Hegemon
 
-### Ben
+## Ben
 Achievement | Date | Decklist
 :-----------:|:----:|:--------:
 [Draw](#user-content-draw)|June 6 2018|Athreos, God of Passage

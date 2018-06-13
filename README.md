@@ -25,6 +25,7 @@ I got the blues. These dubious "achievements" will git you got, too.
  Name | Description
 :----:|:-----------:
 <a name="draw">Draw</a> | Card draw is one thing, game draw is another. Draw a game without timing out because lunch is over.
+<a name="share">Shared Victory</a> | Maybe you didn't lose, but you didn't win... or did you? Finish a star-formation game without killing both of your opponents _and_ without losing, achieving """victory""".
 
 ## Swamp Achievements
 
@@ -79,6 +80,7 @@ Achievement | Date | Decklist
 Achievement | Date | Decklist
 :-----------:|:----:|:--------:
 [Durdle Hurdle](#user-content-durdle-hurdle)|June 5 2018|Whatever that insane Vial Smasher + Ikra Shidiqi deck was
+[Shared Victory](#user-content-share)|June 12 2018|Power Cube Draft Deck
 
 ### Ashton
 Achievement | Date | Decklist

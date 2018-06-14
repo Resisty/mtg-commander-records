@@ -18,7 +18,7 @@
       * [Hippo](#hippo)
       * [Andrew](#andrew)
 
-<!-- Added by: briauron, at: 2018-06-14T20:51:37Z -->
+<!-- Added by: briauron, at: 2018-06-14T20:56:28Z -->
 
 <!--te-->
 # What?
@@ -189,4 +189,4 @@ Achievement | Date | Decklist
 Achievement | Date | Decklist
 :-----------:|:----:|:--------:
 [Inanimate Object Commander Participant](#user-content-inanimate-object-commander-play)|June 14 2018|Lich's Mastery
-[Inanimate Object Commander Victory](#user-content-inanimate-object-commander-win)|June 14 2018|<img src="http://brianauron.info/img/mtg_common_symbol.png">Lich's Mastery 
+[Inanimate Object Commander Victory](#user-content-inanimate-object-commander-win) <img src="http://brianauron.info/img/mtg_common_symbol.png">|June 14 2018|Lich's Mastery 

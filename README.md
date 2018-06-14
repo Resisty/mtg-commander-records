@@ -1,6 +1,25 @@
 <!--ts-->
+Table of Contents
+=================
 
-
+   * [What?](#what)
+      * [Plains Achievements](#plains-achievements)
+      * [Island Achievements](#island-achievements)
+      * [Swamp Achievements](#swamp-achievements)
+      * [Mountain Achievements](#mountain-achievements)
+      * [Forest Achievements](#forest-achievements)
+      * [Guild Achievements](#guild-achievements)
+      * [Shard/Wedge Achievements](#shardwedge-achievements)
+      * [Nephilim Achievements](#nephilim-achievements)
+      * [Rainbow Achievement](#rainbow-achievement)
+   * [Achievement Holders](#achievement-holders)
+      * [Brian](#brian)
+      * [Jared](#jared)
+      * [Ashton](#ashton)
+      * [Ben](#ben)
+      * [Dunx](#dunx)
+      * [Hippo](#hippo)
+      * [Andrew](#andrew)
 <!-- Added by: briauron, at: 2018-06-14T23:08:33Z -->
 
 <!--te-->

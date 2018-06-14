@@ -1,24 +1,7 @@
 <!--ts-->
-   * [What?](#what)
-      * [Plains Achievements](#plains-achievements)
-      * [Island Achievements](#island-achievements)
-      * [Swamp Achievements](#swamp-achievements)
-      * [Mountain Achievements](#mountain-achievements)
-      * [Forest Achievements](#forest-achievements)
-      * [Guild Achievements](#guild-achievements)
-      * [Shard/Wedge Achievements](#shardwedge-achievements)
-      * [Nephilim Achievements](#nephilim-achievements)
-      * [Rainbow Achievement](#rainbow-achievement)
-   * [Achievement Holders](#achievement-holders)
-      * [Brian](#brian)
-      * [Jared](#jared)
-      * [Ashton](#ashton)
-      * [Ben](#ben)
-      * [Dunx](#dunx)
-      * [Hippo](#hippo)
-      * [Andrew](#andrew)
 
-<!-- Added by: briauron, at: 2018-06-14T20:56:28Z -->
+
+<!-- Added by: briauron, at: 2018-06-14T23:08:33Z -->
 
 <!--te-->
 # What?
@@ -178,7 +161,7 @@ Achievement | Date | Decklist
 ## Dunx
 Achievement | Date | Decklist
 :-----------:|:----:|:--------:
-[Inanimate Object Commander Participant](#user-content-inanimate-object-commander-play)|June 14 2018|Hammer of Purphoros
+[Inanimate Object Commander Participant](#user-content-inanimate-object-commander-play)|June 14 2018|<a href="https://manastack.com/deck/haystacks">Hammer of Purphoros aka "Haystacks"</a>
 
 ## Hippo
 Achievement | Date | Decklist

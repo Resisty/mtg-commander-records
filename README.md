@@ -14,8 +14,11 @@
       * [Jared](#jared)
       * [Ashton](#ashton)
       * [Ben](#ben)
+      * [Dunx](#dunx)
+      * [Hippo](#hippo)
+      * [Andrew](#andrew)
 
-<!-- Added by: briauron, at: 2018-06-13T18:06:58Z -->
+<!-- Added by: briauron, at: 2018-06-14T20:51:37Z -->
 
 <!--te-->
 # What?
@@ -153,6 +156,7 @@ Achievement | Date | Decklist
 [.44 Magnum](#user-content-44-magnum)<br/>[Blackjack](#user-content-blackjack) <img src="http://brianauron.info/img/mtg_common_symbol.png">|May something 2018?|<a href="https://manastack.com/deck/volrath-the-fallen-3">Volrath, the Fallen</a>
 [Draw](#user-content-draw)|June 6 2018|[Jodah, Archmage Eternal](https://manastack.com/deck/jodah-archmage-eternal-cyclist)
 [Durdle Hurdle](#user-content-durdle-hurdle)|June 12 2018|<a href="https://manastack.com/deck/jhoira-weatherlight-captain-12">Jhoira, Weatherlight Captain (but with more mana rocks)</a>
+[Inanimate Object Commander Participant](#user-content-inanimate-object-commander-play)|June 14 2018|<a href="https://manastack.com/deck/cheaty-mccheatface-minamo">Minamo, School at Water's Edge</a>
 
 ## Jared
 Achievement | Date | Decklist
@@ -164,8 +168,25 @@ Achievement | Date | Decklist
 Achievement | Date | Decklist
 :-----------:|:----:|:--------:
 [Frienemy](#user-content-frienemy)|May 30 2018... *_twice_*|Sharuum the Hegemon
+[Inanimate Object Commander Participant](#user-content-inanimate-object-commander-play)|June 14 2018|Legacy Weapon (kind of)
 
 ## Ben
 Achievement | Date | Decklist
 :-----------:|:----:|:--------:
 [Draw](#user-content-draw)|June 6 2018|Athreos, God of Passage
+
+## Dunx
+Achievement | Date | Decklist
+:-----------:|:----:|:--------:
+[Inanimate Object Commander Participant](#user-content-inanimate-object-commander-play)|June 14 2018|Hammer of Purphoros
+
+## Hippo
+Achievement | Date | Decklist
+:-----------:|:----:|:--------:
+[Inanimate Object Commander Participant](#user-content-inanimate-object-commander-play)|June 14 2018|Profane Procession
+
+## Andrew
+Achievement | Date | Decklist
+:-----------:|:----:|:--------:
+[Inanimate Object Commander Participant](#user-content-inanimate-object-commander-play)|June 14 2018|Lich's Mastery
+[Inanimate Object Commander Victory](#user-content-inanimate-object-commander-win)|June 14 2018|<img src="http://brianauron.info/img/mtg_common_symbol.png">Lich's Mastery 

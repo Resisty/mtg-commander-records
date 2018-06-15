@@ -185,7 +185,7 @@ Achievement | Date | Decklist
 ## Hippo
 Achievement | Date | Decklist
 :-----------:|:----:|:--------:
-[Inanimate Object Commander Participant](#user-content-inanimate-object-commander-play)|June 14 2018|Profane Procession
+[Inanimate Object Commander Participant](#user-content-inanimate-object-commander-play)|June 14 2018|<a href="https://manastack.com/deck/inanimate-object-commander-profane-prc">Profane Procession</a>
 
 ## Andrew
 Achievement | Date | Decklist

@@ -1,7 +1,5 @@
 <!--ts-->
-Table of Contents
-=================
-
+   * [Table of Contents](#table-of-contents)
    * [What?](#what)
       * [Plains Achievements](#plains-achievements)
       * [Island Achievements](#island-achievements)
@@ -20,7 +18,8 @@ Table of Contents
       * [Dunx](#dunx)
       * [Hippo](#hippo)
       * [Andrew](#andrew)
-<!-- Added by: briauron, at: 2018-06-14T23:08:33Z -->
+
+<!-- Added by: briauron, at: 2018-06-15T21:44:22Z -->
 
 <!--te-->
 # What?

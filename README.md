@@ -48,8 +48,8 @@ I got the blues. These dubious "achievements" will git you got, too.
 
  Name | Description | Tiers (if applicable) 
 :----:|:------------:-----------------------
-<a name="draw">Draw</a> | Card draw is one thing, game draw is another. Draw a game without timing out because lunch is over. |
-<a name="share">Shared Victory</a> | Maybe you didn't lose, but you didn't win... or did you? Finish a star-formation game without killing both of your opponents _and_ without losing, achieving """victory""". |
+<a name="draw">Draw</a> | Card draw is one thing, game draw is another. Draw a game without timing out because lunch is over. 
+<a name="share">Shared Victory</a> | Maybe you didn't lose, but you didn't win... or did you? Finish a star-formation game without killing both of your opponents _and_ without losing, achieving """victory""". 
 <a name="legacy-of-the-void">Legacy of the Void</a> | You gave it your all. Lose the game without cards... | <img src="http://brianauron.info/img/mtg_common_symbol.png"> in your hand <br/><img src="http://brianauron.info/img/mtg_uncommon_symbol.png"> in your hand or library<br/><img src="http://brianauron.info/img/mtg_rare_symbol.png"> in your hand, library, or graveyard<br/><img src="http://brianauron.info/img/mtg_mythic_symbol.png"> in your hand, library, graveyard, or battlefield!
 
 ## Swamp Achievements

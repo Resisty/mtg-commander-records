@@ -193,4 +193,3 @@ Achievement | Date | Decklist
 [Inanimate Object Commander Participant](#user-content-inanimate-object-commander-play)|June 14 2018|Lich's Mastery
 [Inanimate Object Commander Victory](#user-content-inanimate-object-commander-win) <img src="http://brianauron.info/img/mtg_common_symbol.png">|June 14 2018|Lich's Mastery 
 [Legacy of the Void](#user-content-legacy-of-the-void) <img src="http://brianauron.info/img/mtg_mythic_symbol.png">|June 15 2018|Lich's Mastery 
-[Tribal](#user-content-tribal) <img src="http://brianauron.info/img/mtg_common_symbol.png">|June 19 2018|The Ur-Dragon (dragons)

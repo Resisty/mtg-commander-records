@@ -149,7 +149,7 @@ Tier: <img src="http://brianauron.info/img/mtg_mythic_symbol.png">
 
 Unite all five colors of Magic in a dazzling display of power. Can you earn *_ALL FIVE_* colors of achievements in a single game?!
 
-Tier: <img src="http://brianauron.info/img/mtg_masterwork_symbol.png">
+Tier: <img src="http://brianauron.info/img/mtg_master_symbol.png">
 
  Name | Description
 :----:|:------------

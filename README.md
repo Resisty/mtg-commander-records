@@ -97,6 +97,8 @@ Check out the [creature type system](https://mtg.gamepedia.com/Class) for refere
 
 The plane-city of Ravnica boasts challenges few can best. Can you earn two different colors of achievements in a single game?
 
+Tier: <img src="http://brianauron.info/img/mtg_uncommon_symbol.png">
+
  Name | Description
 :----:|:------------
 <a name="azorius">Azorius</a> | <img src="http://brianauron.info/img/azorius_symbol.png"> Earn Plains and Island achievements in the same game!.
@@ -113,6 +115,8 @@ The plane-city of Ravnica boasts challenges few can best. Can you earn two diffe
 ## Shard/Wedge Achievements
 
 The shards of Alara and clans of Tarkir boast challenges as well! Can you earn _three_ different colors of achievements in a single game!?
+
+Tier: <img src="http://brianauron.info/img/mtg_rare_symbol.png">
 
  Name | Description
 :----:|:------------
@@ -131,6 +135,8 @@ The shards of Alara and clans of Tarkir boast challenges as well! Can you earn _
 
 When they awoke, their challenges roared across the multiverse. Can you earn *_four_* different colors of achievements in a single game!?
 
+Tier: <img src="http://brianauron.info/img/mtg_mythic_symbol.png">
+
  Name | Description
 :----:|:------------
 <a name="glint-eye">Glint-Eye</a> | Earn Island, Swamp, Mountain, and Forest achievements in the same game!
@@ -142,6 +148,8 @@ When they awoke, their challenges roared across the multiverse. Can you earn *_f
 ## Rainbow Achievement
 
 Unite all five colors of Magic in a dazzling display of power. Can you earn *_ALL FIVE_* colors of achievements in a single game?!
+
+Tier: <img src="http://brianauron.info/img/mtg_masterwork_symbol.png">
 
  Name | Description
 :----:|:------------

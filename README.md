@@ -1,5 +1,4 @@
 <!--ts-->
-   * [Table of Contents](#table-of-contents)
    * [What?](#what)
       * [Plains Achievements](#plains-achievements)
       * [Island Achievements](#island-achievements)
@@ -19,8 +18,7 @@
       * [Hippo](#hippo)
       * [Andrew](#andrew)
 
-
-<!-- Added by: briauron, at: 2018-08-09T20:41:06Z -->
+<!-- Added by: briauron, at: 2018-08-14T20:32:45Z -->
 
 <!--te-->
 # What?

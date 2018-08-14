@@ -60,6 +60,7 @@ The darkest of the dark. You monster.
  Name | Description
 :----:|:-----------:
 <a name="frienemy">Frienemy</a> | Snatch your opponent from the jaws of defeat... then crush them. Win after saving an opponent.
+<a name="Millionaire">Millionaire</a> | Win by milling all of your opponents at the same time, you jerk.
 
 ## Mountain Achievements
 
@@ -185,6 +186,7 @@ Achievement | Date | Decklist
 Achievement | Date | Decklist
 :-----------:|:----:|:--------:
 [Draw](#user-content-draw)|June 6 2018|Athreos, God of Passage
+[Millionaire](#user-content-millionaire)|August 14 2018|Aminatou, the Fateshifter
 
 ## Dunx
 Achievement | Date | Decklist

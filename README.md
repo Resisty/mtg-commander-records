@@ -58,7 +58,7 @@ The darkest of the dark. You monster.
  Name | Description
 :----:|:-----------:
 <a name="frienemy">Frienemy</a> | Snatch your opponent from the jaws of defeat... then crush them. Win after saving an opponent.
-<a name="Millionaire">Millionaire</a> | Win by milling all of your opponents at the same time, you jerk.
+<a name="millionaire">Millionaire</a> | Win by milling all of your opponents at the same time, you jerk.
 
 ## Mountain Achievements
 

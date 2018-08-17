@@ -196,7 +196,7 @@ Achievement | Date | Decklist
 Achievement | Date | Decklist
 :-----------:|:----:|:--------:
 [Inanimate Object Commander Participant](#user-content-inanimate-object-commander-play)|June 14 2018|<a href="https://manastack.com/deck/inanimate-object-commander-profane-prc">Profane Procession</a>
-[Overkill](#user-content-overkill)|August 17 2018|Estrid, The Masked
+[Overkill](#user-content-overkill) <img src="http://brianauron.info/img/mtg_rare_symbol.png">|August 17 2018|Estrid, The Masked
 
 ## Andrew
 Achievement | Date | Decklist

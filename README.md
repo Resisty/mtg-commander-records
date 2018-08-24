@@ -167,7 +167,7 @@ Achievement | Date | Decklist
 [Draw](#user-content-draw)|June 6 2018|[Jodah, Archmage Eternal](https://manastack.com/deck/jodah-archmage-eternal-cyclist)
 [Durdle Hurdle](#user-content-durdle-hurdle)|June 12 2018|<a href="https://manastack.com/deck/jhoira-weatherlight-captain-12">Jhoira, Weatherlight Captain (but with more mana rocks)</a>
 [Inanimate Object Commander Participant](#user-content-inanimate-object-commander-play)|June 14 2018|<a href="https://manastack.com/deck/cheaty-mccheatface-minamo">Minamo, School at Water's Edge</a>
-[.44 Magnum](#user-content-44-magnum)<br/>[Overkill](#user-content-overkill) <img src="http://brianauron.info/img/mtg_mythic_symbol.png">|August 24 2018|Okaun, Eye of Chaos and Zndrsplt, Eye of Wisdom (6144 commander damage to [Andrew](#user-content-Andrew), 6144 combat damage to [Hippo](#user-content-hippo)
+[.44 Magnum](#user-content-44-magnum)<br/>[Overkill](#user-content-overkill) <img src="http://brianauron.info/img/mtg_mythic_symbol.png">|August 24 2018|Okaun, Eye of Chaos and Zndrsplt, Eye of Wisdom (6144 commander damage to [Andrew](#user-content-Andrew), 6144 combat damage to [Hippo](#user-content-hippo))
 
 ## Jared
 Achievement | Date | Decklist

@@ -187,6 +187,7 @@ Achievement | Date | Decklist
 [Draw](#user-content-draw)|June 6 2018|Athreos, God of Passage
 [Millionaire](#user-content-millionaire)|August 14 2018|Aminatou, the Fateshifter
 [Storm Chaser](#user-content-storm-chaser) <img src="http://brianauron.info/img/mtg_mythic_symbol.png">|October 8 2018|Mizzix of the Izmagnus
+[Durdle Hurdle](#user-content-durdle-hurdle)|October 8 2018|Mizzix of the Izmagnus
 
 ## Dunx
 Achievement | Date | Decklist

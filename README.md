@@ -214,4 +214,4 @@ Achievement | Date | Decklist
 ## Joe
 Achievement | Date | Decklist
 :-----------:|:----:|:--------:
-[Hang On...](#user-content-hang-on)|October 25 2018|Inalla, Archmage Ritualist (multiple copies of <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435258"Direfleet Ravager</a>)
+[Hang On...](#user-content-hang-on)|October 25 2018|Inalla, Archmage Ritualist (multiple copies of <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435258">Direfleet Ravager</a>)

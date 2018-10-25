@@ -17,6 +17,7 @@
       * [Dunx](#dunx)
       * [Hippo](#hippo)
       * [Andrew](#andrew)
+      * [Joe](#joe)
 
 <!-- Added by: briauron, at: 2018-09-10T20:14:26Z -->
 
@@ -50,6 +51,7 @@ I got the blues. These dubious "achievements" will git you got, too.
 <a name="draw">Draw</a> | Card draw is one thing, game draw is another. Draw a game without timing out because lunch is over. 
 <a name="share">Shared Victory</a> | Maybe you didn't lose, but you didn't win... or did you? Finish a star-formation game without killing both of your opponents _and_ without losing, achieving """victory""". 
 <a name="legacy-of-the-void">Legacy of the Void</a> | You gave it your all. Lose the game without cards... | <img src="http://brianauron.info/img/mtg_common_symbol.png"> in your hand <br/><img src="http://brianauron.info/img/mtg_uncommon_symbol.png"> in your hand or library<br/><img src="http://brianauron.info/img/mtg_rare_symbol.png"> in your hand, library, or graveyard<br/><img src="http://brianauron.info/img/mtg_mythic_symbol.png"> in your hand, library, graveyard, or battlefield!
+<a name="hang-on">Hang On...</a> | "Whoa, wait, so let's resolve the stack one thing at a time... anybody got paper? A whiteboard? Anything?" Using a dazzling array of spells, triggers, and mechanics, bring the game to a halt while everybody figures out what the result is and whether they're dead.
 
 ## Swamp Achievements
 
@@ -208,3 +210,8 @@ Achievement | Date | Decklist
 [Inanimate Object Commander Victory](#user-content-inanimate-object-commander-win) <img src="http://brianauron.info/img/mtg_common_symbol.png">|June 14 2018|Lich's Mastery 
 [Legacy of the Void](#user-content-legacy-of-the-void) <img src="http://brianauron.info/img/mtg_mythic_symbol.png">|June 15 2018|Lich's Mastery 
 [So Basic](#user-content-so-basic)|September 10 2018|The Ur-Dragon
+
+## Joe
+Achievement | Date | Decklist
+:-----------:|:----:|:--------:
+[Hang On...](#user-content-hang-on)|October 25 2018|Inalla, Archmage Ritualist (multiple copies of <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435258"Direfleet Ravager</a>)

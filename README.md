@@ -197,6 +197,7 @@ Achievement | Date | Decklist
 :-----------:|:----:|:--------:
 [Inanimate Object Commander Participant](#user-content-inanimate-object-commander-play)|June 14 2018|<a href="https://manastack.com/deck/haystacks">Hammer of Purphoros aka "Haystacks"</a>
 [So Basic](#user-content-so-basic)|August 9 2018|Marwyn, The Nurturer (only Forests)
+[Atheism](#user-content-atheism)|December 10 2018|Krav the Unredeemed and Regna the Redeemer (killed Athreos, God of Passage)
 
 ## Hippo
 Achievement | Date | Decklist

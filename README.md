@@ -52,7 +52,7 @@ I got the blues. These dubious "achievements" will git you got, too.
 <a name="share">Shared Victory</a> | Maybe you didn't lose, but you didn't win... or did you? Finish a star-formation game without killing both of your opponents _and_ without losing, achieving """victory""". 
 <a name="legacy-of-the-void">Legacy of the Void</a> | You gave it your all. Lose the game without cards... | <img src="http://brianauron.info/img/mtg_common_symbol.png"> in your hand <br/><img src="http://brianauron.info/img/mtg_uncommon_symbol.png"> in your hand or library<br/><img src="http://brianauron.info/img/mtg_rare_symbol.png"> in your hand, library, or graveyard<br/><img src="http://brianauron.info/img/mtg_mythic_symbol.png"> in your hand, library, graveyard, or battlefield!
 <a name="hang-on">Hang On...</a> | "Whoa, wait, so let's resolve the stack one thing at a time... anybody got paper? A whiteboard? Anything?" Using a dazzling array of spells, triggers, and mechanics, bring the game to a halt while everybody figures out what the result is and whether they're dead.
-<a name="millefeuile">Millef... Millefieiu... Mill fool.</a> | Mill your entire library in a single turn! Show your enemies how it's done!
+<a name="millefeuile">Millef... Millefieiu... Mill fool.</a> | Like the layers of a delicious pastry, so too are the cards in your deck. Consumed or discard, either way: Mill your entire library in a single turn! Show your enemies how it's done!
 
 ## Swamp Achievements
 

@@ -172,13 +172,14 @@ Achievement | Date | Decklist
 [Inanimate Object Commander Participant](#user-content-inanimate-object-commander-play)|June 14 2018|<a href="https://manastack.com/deck/cheaty-mccheatface-minamo">Minamo, School at Water's Edge</a>
 [.44 Magnum](#user-content-44-magnum)<br/>[Overkill](#user-content-overkill) <img src="http://brianauron.info/img/mtg_mythic_symbol.png"><br/>[Blackjack](#user-content-blackjack) <img src="http://brianauron.info/img/mtg_mythic_symbol.png">|August 24 2018|Okaun, Eye of Chaos and Zndrsplt, Eye of Wisdom (6144 commander damage to [Andrew](#user-content-Andrew), 6144 combat damage to [Hippo](#user-content-hippo))
 [Storm Chaser](#user-content-storm-chaser) <img src="http://brianauron.info/img/mtg_mythic_symbol.png">|December 3 2018|The Locust God + Thousand-Year Storm
-[Life to Spare](#life-to-spare) <img src="http://brianauron.info/img/mtg_mythic_symbol.png">|January 3 2019|Gisela, the Broken Blade (704+ hp)
+[Life to Spare](#user-content-life-to-spare) <img src="http://brianauron.info/img/mtg_mythic_symbol.png">|January 3 2019|Gisela, the Broken Blade (704+ hp)
 
 ## Jared
 Achievement | Date | Decklist
 :-----------:|:----:|:--------:
 [Durdle Hurdle](#user-content-durdle-hurdle)|June 5 2018|Whatever that insane Vial Smasher + Ikra Shidiqi deck was
 [Shared Victory](#user-content-share)|June 12 2018|Power Cube Draft Deck
+[Millionaire](#user-content-millionaire)|Sometime in 2018|The Scarab God
 
 ## Ashton
 Achievement | Date | Decklist
@@ -193,7 +194,7 @@ Achievement | Date | Decklist
 [Millionaire](#user-content-millionaire)|August 14 2018|Aminatou, the Fateshifter
 [Storm Chaser](#user-content-storm-chaser) <img src="http://brianauron.info/img/mtg_mythic_symbol.png">|October 8 2018|Mizzix of the Izmagnus
 [Durdle Hurdle](#user-content-durdle-hurdle)|October 8 2018|Mizzix of the Izmagnus
-[Millefu... Millefieiu... Mill fool.](#millefeuile)|January 3 2019|Nekusar, the Mindrazer
+[Millefu... Millefieiu... Mill fool.](#user-content-millefeuile)|January 3 2019|Nekusar, the Mindrazer
 
 ## Dunx
 Achievement | Date | Decklist

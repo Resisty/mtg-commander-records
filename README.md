@@ -52,7 +52,7 @@ I got the blues. These dubious "achievements" will git you got, too.
 <a name="share">Shared Victory</a> | Maybe you didn't lose, but you didn't win... or did you? Finish a star-formation game without killing both of your opponents _and_ without losing, achieving """victory""". 
 <a name="legacy-of-the-void">Legacy of the Void</a> | You gave it your all. Lose the game without cards... | <img src="http://brianauron.info/img/mtg_common_symbol.png"> in your hand <br/><img src="http://brianauron.info/img/mtg_uncommon_symbol.png"> in your hand or library<br/><img src="http://brianauron.info/img/mtg_rare_symbol.png"> in your hand, library, or graveyard<br/><img src="http://brianauron.info/img/mtg_mythic_symbol.png"> in your hand, library, graveyard, or battlefield!
 <a name="hang-on">Hang On...</a> | "Whoa, wait, so let's resolve the stack one thing at a time... anybody got paper? A whiteboard? Anything?" Using a dazzling array of spells, triggers, and mechanics, bring the game to a halt while everybody figures out what the result is and whether they're dead.
-<a name="cant-fire-i-quit">You Can't Fire Me, I Quit!</a> | Mill your entire library in a single turn! Show your enemies how it's done!
+<a name="millefeuile">Millef... Millefieiu... Mill fool.</a> | Mill your entire library in a single turn! Show your enemies how it's done!
 
 ## Swamp Achievements
 
@@ -193,7 +193,7 @@ Achievement | Date | Decklist
 [Millionaire](#user-content-millionaire)|August 14 2018|Aminatou, the Fateshifter
 [Storm Chaser](#user-content-storm-chaser) <img src="http://brianauron.info/img/mtg_mythic_symbol.png">|October 8 2018|Mizzix of the Izmagnus
 [Durdle Hurdle](#user-content-durdle-hurdle)|October 8 2018|Mizzix of the Izmagnus
-[You Can't Fire Me, I Quit!](#cant-fire-i-quit)|January 3 2019|Nekusar, the Mindrazer
+[Millefu... Millefieiu... Mill fool.](#millefeuile)|January 3 2019|Nekusar, the Mindrazer
 
 ## Dunx
 Achievement | Date | Decklist

@@ -41,6 +41,7 @@ Simple and clean, just some achievements
 <a name="pantheonandonandon">Pantheonandonandon</a> | Have all gods ever printed by WotC in play at the same time! (Is this possible?)
 <a name="so-basic">So Basic</a> | Win a game with only basic lands..
 <a name="extra-basic">_Extra_ Basic</a> | Win a game with _only_ basic lands.
+<a name="shallow-grave">Shallow Grave</a> | Win with no cards in your graveyard.
 
 ## Island Achievements
 
@@ -202,6 +203,7 @@ Achievement | Date | Decklist
 [Inanimate Object Commander Participant](#user-content-inanimate-object-commander-play)|June 14 2018|<a href="https://manastack.com/deck/haystacks">Hammer of Purphoros aka "Haystacks"</a>
 [So Basic](#user-content-so-basic)|August 9 2018|Marwyn, The Nurturer (only Forests)
 [Atheism](#user-content-atheism)|December 10 2018|Krav the Unredeemed and Regna the Redeemer: "Coupons" (killed Athreos, God of Passage)
+[Shallow Grave](#user-content-shallow-grave)|January 17 2019|Niv-Mizzet, Parun (featuring the Best Card In Magic, Reliquary Tower)
 
 ## Hippo
 Achievement | Date | Decklist

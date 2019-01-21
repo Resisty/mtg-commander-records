@@ -83,6 +83,7 @@ Harder as you go up. Can you get to the top?
 <a name="rags-to-riches">Rags To Riches</a> | Horatio Alger would be proud! Win after repeat Mulligans! | <img src="http://brianauron.info/img/mtg_common_symbol.png"> 4 cards<br/><img src="http://brianauron.info/img/mtg_uncommon_symbol.png"> 3 cards<br/><img src="http://brianauron.info/img/mtg_rare_symbol.png"> 2 cards<br/><img src="http://brianauron.info/img/mtg_mythic_symbol.png"> 1 card
 <a name="decked-out">Decked Out</a> | The game ground to a halt! Win by milling your opponent by turn... | <img src="http://brianauron.info/img/mtg_common_symbol.png"> 8<br/><img src="http://brianauron.info/img/mtg_uncommon_symbol.png"> 4<br/><img src="http://brianauron.info/img/mtg_rare_symbol.png"> 2<br/><img src="http://brianauron.info/img/mtg_mythic_symbol.png"> 1?!
 <a name="blackjack">Blackjack</a> | Hit me! Win with sufficient commander damage! | <img src="http://brianauron.info/img/mtg_common_symbol.png"> 21<br/><img src="http://brianauron.info/img/mtg_uncommon_symbol.png"> 30<br/><img src="http://brianauron.info/img/mtg_rare_symbol.png"> 50<br/><img src="http://brianauron.info/img/mtg_mythic_symbol.png"> 100
+<a name="never-didnt-have-it">Never Didn't Have It</a> | There's no way you can win on board, so you have to topdeck. It might seem like luck, but you never didn't have it! Win with a topdeck from... | <img src="http://brianauron.info/img/mtg_common_symbol.png"> Your draw spell.<br/><img src="http://brianauron.info/img/mtg_uncommon_symbol.png"> Your draw step.<br/><img src="http://brianauron.info/img/mtg_rare_symbol.png"> An opponent's draw spell.<br/><img src="http://brianauron.info/img/mtg_mythic_symbol.png"> An opponent's topdeck?!
 
 ## Forest Achievements
 
@@ -218,6 +219,7 @@ Achievement | Date | Decklist
 [Inanimate Object Commander Victory](#user-content-inanimate-object-commander-win) <img src="http://brianauron.info/img/mtg_common_symbol.png">|June 14 2018|Lich's Mastery 
 [Legacy of the Void](#user-content-legacy-of-the-void) <img src="http://brianauron.info/img/mtg_mythic_symbol.png">|June 15 2018|Lich's Mastery 
 [So Basic](#user-content-so-basic)|September 10 2018|The Ur-Dragon
+[Never Didn't Have It](#user-content-never-didnt-have-it) <img src="http://brianauron.info/img/mtg_mythic_symbol.png">|January 21 2019|Mathas, Fiend Seeker using [Duncan's](#user-content-dunx) Etali, Primal Storm
 
 ## Joe
 Achievement | Date | Decklist

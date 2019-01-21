@@ -63,6 +63,7 @@ The darkest of the dark. You monster.
 :----:|:-----------:
 <a name="frienemy">Frienemy</a> | Snatch your opponent from the jaws of defeat... then crush them. Win after saving an opponent.
 <a name="millionaire">Millionaire</a> | Win by milling all of your opponents at the same time, you jerk.
+<a name="to-the-traitor-the-spoils">To The Traitor, The Spoils</a> | Win with your opponent's alternate win condition.
 
 ## Mountain Achievements
 
@@ -197,6 +198,7 @@ Achievement | Date | Decklist
 [Storm Chaser](#user-content-storm-chaser) <img src="http://brianauron.info/img/mtg_mythic_symbol.png">|October 8 2018|Mizzix of the Izmagnus
 [Durdle Hurdle](#user-content-durdle-hurdle)|October 8 2018|Mizzix of the Izmagnus
 [Millefu... Millefieiu... Mill fool.](#user-content-millefeuile)|January 3 2019|Nekusar, the Mindrazer
+[Destroyer of Worlds](#user-content-destroyer-of-worlds) <img src="http://brianauron.info/img/mtg_common_symbol.png">|January 21 2019|Grusilda, Monster Masher
 
 ## Dunx
 Achievement | Date | Decklist
@@ -219,7 +221,8 @@ Achievement | Date | Decklist
 [Inanimate Object Commander Victory](#user-content-inanimate-object-commander-win) <img src="http://brianauron.info/img/mtg_common_symbol.png">|June 14 2018|Lich's Mastery 
 [Legacy of the Void](#user-content-legacy-of-the-void) <img src="http://brianauron.info/img/mtg_mythic_symbol.png">|June 15 2018|Lich's Mastery 
 [So Basic](#user-content-so-basic)|September 10 2018|The Ur-Dragon
-[Never Didn't Have It](#user-content-never-didnt-have-it) <img src="http://brianauron.info/img/mtg_mythic_symbol.png">|January 21 2019|Mathas, Fiend Seeker using [Duncan's](#user-content-dunx) Etali, Primal Storm
+[Never Didn't Have It](#user-content-never-didnt-have-it) <img src="http://brianauron.info/img/mtg_mythic_symbol.png">|January 21 2019|Mathas, Fiend Seeker using [Duncan's](#user-content-dunx) Etali, Primal Storm to cast Vicious Shadows
+[To The Traitor, The Spoils](#user-content-to-the-traitor-the-spoils)|January 21 2019|Mathas, Fiend Seeker using [Duncan's](#user-content-dunx) Etali, Primal Storm to cast Vicious Shadows
 
 ## Joe
 Achievement | Date | Decklist

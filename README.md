@@ -54,6 +54,7 @@ I got the blues. These dubious "achievements" will git you got, too.
 <a name="legacy-of-the-void">Legacy of the Void</a> | You gave it your all. Lose the game without cards... | <img src="http://brianauron.info/img/mtg_common_symbol.png"> in your hand <br/><img src="http://brianauron.info/img/mtg_uncommon_symbol.png"> in your hand or library<br/><img src="http://brianauron.info/img/mtg_rare_symbol.png"> in your hand, library, or graveyard<br/><img src="http://brianauron.info/img/mtg_mythic_symbol.png"> in your hand, library, graveyard, or battlefield!
 <a name="hang-on">Hang On...</a> | "Whoa, wait, so let's resolve the stack one thing at a time... anybody got paper? A whiteboard? Anything?" Using a dazzling array of spells, triggers, and mechanics, bring the game to a halt while everybody figures out what the result is and whether they're dead.
 <a name="millefeuile">Millef... Millefieiu... Mill fool.</a> | Like the layers of a delicious pastry, so too are the cards in your deck. Consumed or discard, either way: Mill your entire library in a single turn! Show your enemies how it's done!
+<a name="never-had-it">Never Had It.</a> | You had all the opportunities in the world, but you just couldn't quite get there. Lose the game despite taking | <img src="http://brianauron.info/img/mtg_common_symbol.png"> 1 <br/><img src="http://brianauron.info/img/mtg_uncommon_symbol.png"> 2 <br/><img src="http://brianauron.info/img/mtg_rare_symbol.png"> 3 <br/><img src="http://brianauron.info/img/mtg_mythic_symbol.png"> 5 extra turns.
 
 ## Swamp Achievements
 
@@ -176,6 +177,8 @@ Achievement | Date | Decklist
 [.44 Magnum](#user-content-44-magnum)<br/>[Overkill](#user-content-overkill) <img src="http://brianauron.info/img/mtg_mythic_symbol.png"><br/>[Blackjack](#user-content-blackjack) <img src="http://brianauron.info/img/mtg_mythic_symbol.png">|August 24 2018|Okaun, Eye of Chaos and Zndrsplt, Eye of Wisdom (6144 commander damage to [Andrew](#user-content-Andrew), 6144 combat damage to [Hippo](#user-content-hippo))
 [Storm Chaser](#user-content-storm-chaser) <img src="http://brianauron.info/img/mtg_mythic_symbol.png">|December 3 2018|The Locust God + Thousand-Year Storm
 [Life to Spare](#user-content-life-to-spare) <img src="http://brianauron.info/img/mtg_mythic_symbol.png">|January 3 2019|Gisela, the Broken Blade (704+ hp)
+[Never Had It](#user-content-never-had-it) <img src="http://brianauron.info/img/mtg_rare_symbol.png">|March 7 2019|Jodah, Archmage Eternal (Ral Zarek's, Teferi, Hero of Dominaria's, AND Nicol Bolas, God-Pharaoh's ultimate abilities!)
+[Destroyer of Worlds](#user-content-destroyer-of-worlds) <img src="http://brianauron.info/img/mtg_uncommon_symbol.png">|March 12 2019|Intet, the Dreamer (ALL permanents because Mycosynth Lattice -> Bane of Progress)
 
 ## Jared
 Achievement | Date | Decklist

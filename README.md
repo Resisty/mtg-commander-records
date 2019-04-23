@@ -202,7 +202,8 @@ Achievement | Date | Decklist
 [Durdle Hurdle](#user-content-durdle-hurdle)|October 8 2018|Mizzix of the Izmagnus
 [Millefu... Millefieiu... Mill fool.](#user-content-millefeuile)|January 3 2019|Nekusar, the Mindrazer
 [Destroyer of Worlds](#user-content-destroyer-of-worlds) <img src="http://brianauron.info/img/mtg_common_symbol.png">|January 21 2019|Grusilda, Monster Masher
-[Mana Debased](#user-content-mana-debased) <img src="http://brianauron.info/img/mtg_uncommon_symbol.png"></br>[Need For Speed](#user-content-need-for-speed) <img src="http://brianauron.info/img/mtg_common_symbol.png"></br>[Storm Chaser](#user-content-storm-chaser) <img src="http://brianauron.info/img/mtg_rare_symbol.png">|April 12 2019|Jhoira, Weatherlight Captain
+[Mana Debased](#user-content-mana-debased) <img src="http://brianauron.info/img/mtg_common_symbol.png"></br>[Need For Speed](#user-content-need-for-speed) <img src="http://brianauron.info/img/mtg_common_symbol.png"></br>[Storm Chaser](#user-content-storm-chaser) <img src="http://brianauron.info/img/mtg_rare_symbol.png">|April 12 2019|Jhoira, Weatherlight Captain
+[Mana Debased](#user-content-mana-debased) <img src="http://brianauron.info/img/mtg_uncommon_symbol.png"></br>[Storm Chaser](#user-content-storm-chaser) <img src="http://brianauron.info/img/mtg_rare_symbol.png">|April 23 2019|Jhoira, Weatherlight Captain
 
 ## Dunx
 Achievement | Date | Decklist

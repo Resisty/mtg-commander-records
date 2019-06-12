@@ -179,6 +179,7 @@ Achievement | Date | Decklist
 [Life to Spare](#user-content-life-to-spare) <img src="http://brianauron.info/img/mtg_mythic_symbol.png">|January 3 2019|Gisela, the Broken Blade (704+ hp)
 [Never Had It](#user-content-never-had-it) <img src="http://brianauron.info/img/mtg_rare_symbol.png">|March 7 2019|Jodah, Archmage Eternal (Ral Zarek's, Teferi, Hero of Dominaria's, AND Nicol Bolas, God-Pharaoh's ultimate abilities!)
 [Destroyer of Worlds](#user-content-destroyer-of-worlds) <img src="http://brianauron.info/img/mtg_uncommon_symbol.png">|March 12 2019|Intet, the Dreamer (ALL permanents because Mycosynth Lattice -> Bane of Progress)
+[Millionaire](#user-content-millionaire) |June 12 2019|Keranos, God of Storms + Stream of Thought
 
 ## Jared
 Achievement | Date | Decklist

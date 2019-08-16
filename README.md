@@ -45,12 +45,12 @@ Simple and clean, just some achievements
 
 ## Island Achievements
 
-I got the blues. These dubious "achievements" will git you got, too. 
+I got the blues. These dubious "achievements" will git you got, too.
 
- Name | Description | Tiers (if applicable) 
+ Name | Description | Tiers (if applicable)
 :----:|:-----------:|:----------------------
-<a name="draw">Draw</a> | Card draw is one thing, game draw is another. Draw a game without timing out because lunch is over. 
-<a name="share">Shared Victory</a> | Maybe you didn't lose, but you didn't win... or did you? Finish a star-formation game without killing both of your opponents _and_ without losing, achieving """victory""". 
+<a name="draw">Draw</a> | Card draw is one thing, game draw is another. Draw a game without timing out because lunch is over.
+<a name="share">Shared Victory</a> | Maybe you didn't lose, but you didn't win... or did you? Finish a star-formation game without killing both of your opponents _and_ without losing, achieving """victory""".
 <a name="legacy-of-the-void">Legacy of the Void</a> | You gave it your all. Lose the game without cards... | <img src="http://brianauron.info/img/mtg_common_symbol.png"> in your hand <br/><img src="http://brianauron.info/img/mtg_uncommon_symbol.png"> in your hand or library<br/><img src="http://brianauron.info/img/mtg_rare_symbol.png"> in your hand, library, or graveyard<br/><img src="http://brianauron.info/img/mtg_mythic_symbol.png"> in your hand, library, graveyard, or battlefield!
 <a name="hang-on">Hang On...</a> | "Whoa, wait, so let's resolve the stack one thing at a time... anybody got paper? A whiteboard? Anything?" Using a dazzling array of spells, triggers, and mechanics, bring the game to a halt while everybody figures out what the result is and whether they're dead.
 <a name="millefeuile">Millef... Millefieiu... Mill fool.</a> | Like the layers of a delicious pastry, so too are the cards in your deck. Consumed or discard, either way: Mill your entire library in a single turn! Show your enemies how it's done!
@@ -205,6 +205,8 @@ Achievement | Date | Decklist
 [Destroyer of Worlds](#user-content-destroyer-of-worlds) <img src="http://brianauron.info/img/mtg_common_symbol.png">|January 21 2019|Grusilda, Monster Masher
 [Mana Debased](#user-content-mana-debased) <img src="http://brianauron.info/img/mtg_common_symbol.png"></br>[Need For Speed](#user-content-need-for-speed) <img src="http://brianauron.info/img/mtg_common_symbol.png"></br>[Storm Chaser](#user-content-storm-chaser) <img src="http://brianauron.info/img/mtg_rare_symbol.png">|April 12 2019|Jhoira, Weatherlight Captain
 [Mana Debased](#user-content-mana-debased) <img src="http://brianauron.info/img/mtg_uncommon_symbol.png"></br>[Storm Chaser](#user-content-storm-chaser) <img src="http://brianauron.info/img/mtg_rare_symbol.png">|April 23 2019|Jhoira, Weatherlight Captain
+[Blackjack](#user-content-blackjack) <img src="http://brianauron.info/img/mtg_rare_symbol.png">|August 8 2019|Kazarov, Sengir Pureblood
+
 
 ## Dunx
 Achievement | Date | Decklist
@@ -224,8 +226,8 @@ Achievement | Date | Decklist
 Achievement | Date | Decklist
 :-----------:|:----:|:--------:
 [Inanimate Object Commander Participant](#user-content-inanimate-object-commander-play)|June 14 2018|Lich's Mastery
-[Inanimate Object Commander Victory](#user-content-inanimate-object-commander-win) <img src="http://brianauron.info/img/mtg_common_symbol.png">|June 14 2018|Lich's Mastery 
-[Legacy of the Void](#user-content-legacy-of-the-void) <img src="http://brianauron.info/img/mtg_mythic_symbol.png">|June 15 2018|Lich's Mastery 
+[Inanimate Object Commander Victory](#user-content-inanimate-object-commander-win) <img src="http://brianauron.info/img/mtg_common_symbol.png">|June 14 2018|Lich's Mastery
+[Legacy of the Void](#user-content-legacy-of-the-void) <img src="http://brianauron.info/img/mtg_mythic_symbol.png">|June 15 2018|Lich's Mastery
 [So Basic](#user-content-so-basic)|September 10 2018|The Ur-Dragon
 [Never Didn't Have It](#user-content-never-didnt-have-it) <img src="http://brianauron.info/img/mtg_mythic_symbol.png">|January 21 2019|Mathas, Fiend Seeker using [Duncan's](#user-content-dunx) Etali, Primal Storm to cast Vicious Shadows
 [To The Traitor, The Spoils](#user-content-to-the-traitor-the-spoils)|January 21 2019|Mathas, Fiend Seeker using [Duncan's](#user-content-dunx) Etali, Primal Storm to cast Vicious Shadows

@@ -65,6 +65,7 @@ The darkest of the dark. You monster.
 <a name="frienemy">Frienemy</a> | Snatch your opponent from the jaws of defeat... then crush them. Win after saving an opponent.
 <a name="millionaire">Millionaire</a> | Win by milling all of your opponents at the same time, you jerk.
 <a name="to-the-traitor-the-spoils">To The Traitor, The Spoils</a> | Win with your opponent's alternate win condition.
+<a name="Diabolical">Diabolical</a> | Really, guy? Sure, get your cards and win. Tutor way too many times on your turn before winning: | <img src="http://brianauron.info/img/mtg_common_symbol.png"> 3<br/><img src="http://brianauron.info/img/mtg_uncommon_symbol.png"> 5<br/><img src="http://brianauron.info/img/mtg_rare_symbol.png"> 10<br/><img src="http://brianauron.info/img/mtg_mythic_symbol.png"> 15
 
 ## Mountain Achievements
 
@@ -99,6 +100,10 @@ Check out the [creature type system](https://mtg.gamepedia.com/Class) for refere
 <a name="commune">Commune</a> | <img src="http://brianauron.info/img/mtg_uncommon_symbol.png"> Win a game only playing a single characteristic creature class, e.g. Human.
 <a name="phylum">Phylum</a> | <img src="http://brianauron.info/img/mtg_rare_symbol.png"> Win a game only playing a single "other" creature class, e.g. Wombat.
 <a name="speciation">Speciation</a> | <img src="http://brianauron.info/img/mtg_mythic_symbol.png"> Win a game only playing a single token creature class, e.g. Caribou.
+<a name="pack-hunter">Pack Hunter</a> | <img src="http://brianauron.info/img/mtg_common_symbol.png"> You work best in a group! Win with your most trusted companions, but only your _most_ trusted; win after controlling no more than 7 creatures over the course of the game.
+<a name="fellowship">Fellowship</a> | <img src="http://brianauron.info/img/mtg_uncommon_symbol.png"> Your group is tight-knit and efficient. Win after controlling no more than 5 creatures over the course of the game.
+<a name="deadly-duo">Deadly Duo</a> | <img src="http://brianauron.info/img/mtg_rare_symbol.png"> You and your partner; that's all you need. Win after controlling no more than 2 creatures over the course of the game.
+<a name="apex-predator">Apex Predator</a> | <img src="http://brianauron.info/img/mtg_mythic_symbol.png"> You're the top of the food chain, the lone wolf, the singleton. Win a game by controlling no more than one creature at any point in the game.
 
 ## Guild Achievements
 
@@ -108,16 +113,16 @@ Tier: <img src="http://brianauron.info/img/mtg_uncommon_symbol.png">
 
  Name | Description
 :----:|:------------
-<a name="azorius">Azorius</a> | <img src="http://brianauron.info/img/azorius_symbol.png"> Earn Plains and Island achievements in the same game!.
-<a name="orzhov">Orzhov</a> | <img src="http://brianauron.info/img/orzhov_symbol.png"> Earn Plains and Swamp achievements in the same game!.
-<a name="dimir">Dimir</a> | <img src="http://brianauron.info/img/dimir_symbol.png"> Earn Island and Swamp achievements in the same game!.
-<a name="izzet">Izzet</a> | <img src="http://brianauron.info/img/izzet_symbol.png"> Earn Island and Mountain achievements in the same game!.
-<a name="rakdos">Rakdos</a> | <img src="http://brianauron.info/img/rakdos_symbol.png"> Earn Swamp and Mountain achievements in the same game!.
-<a name="golgari">Golgari</a> | <img src="http://brianauron.info/img/golgari_symbol.png"> Earn Swamp and Forest  achievements in the same game!.
-<a name="gruul">Gruul</a> | <img src="http://brianauron.info/img/gruul_symbol.png"> Earn Mountain and Forest achievements in the same game!.
-<a name="boros">Boros</a> | <img src="http://brianauron.info/img/boros_symbol.png"> Earn Plains and Mountain achievements in the same game!.
-<a name="selesnya">Selesnya</a> | <img src="http://brianauron.info/img/selesnya_symbol.png"> Earn Plains and Forest achievements in the same game!.
-<a name="simic">Simic</a> | <img src="http://brianauron.info/img/simic_symbol.png"> Earn Island and Forest achievements in the same game!.
+<a name="azorius">Azorius</a> | <img src="http://brianauron.info/img/azorius_symbol.png"> Earn Plains and Island achievements in the same game!
+<a name="orzhov">Orzhov</a> | <img src="http://brianauron.info/img/orzhov_symbol.png"> Earn Plains and Swamp achievements in the same game!
+<a name="dimir">Dimir</a> | <img src="http://brianauron.info/img/dimir_symbol.png"> Earn Island and Swamp achievements in the same game!
+<a name="izzet">Izzet</a> | <img src="http://brianauron.info/img/izzet_symbol.png"> Earn Island and Mountain achievements in the same game!
+<a name="rakdos">Rakdos</a> | <img src="http://brianauron.info/img/rakdos_symbol.png"> Earn Swamp and Mountain achievements in the same game!
+<a name="golgari">Golgari</a> | <img src="http://brianauron.info/img/golgari_symbol.png"> Earn Swamp and Forest  achievements in the same game!
+<a name="gruul">Gruul</a> | <img src="http://brianauron.info/img/gruul_symbol.png"> Earn Mountain and Forest achievements in the same game!
+<a name="boros">Boros</a> | <img src="http://brianauron.info/img/boros_symbol.png"> Earn Plains and Mountain achievements in the same game!
+<a name="selesnya">Selesnya</a> | <img src="http://brianauron.info/img/selesnya_symbol.png"> Earn Plains and Forest achievements in the same game!
+<a name="simic">Simic</a> | <img src="http://brianauron.info/img/simic_symbol.png"> Earn Island and Forest achievements in the same game!
 
 ## Shard/Wedge Achievements
 
@@ -205,6 +210,8 @@ Achievement | Date | Decklist
 [Destroyer of Worlds](#user-content-destroyer-of-worlds) <img src="http://brianauron.info/img/mtg_common_symbol.png">|January 21 2019|Grusilda, Monster Masher
 [Mana Debased](#user-content-mana-debased) <img src="http://brianauron.info/img/mtg_common_symbol.png"></br>[Need For Speed](#user-content-need-for-speed) <img src="http://brianauron.info/img/mtg_common_symbol.png"></br>[Storm Chaser](#user-content-storm-chaser) <img src="http://brianauron.info/img/mtg_rare_symbol.png">|April 12 2019|Jhoira, Weatherlight Captain
 [Mana Debased](#user-content-mana-debased) <img src="http://brianauron.info/img/mtg_uncommon_symbol.png"></br>[Storm Chaser](#user-content-storm-chaser) <img src="http://brianauron.info/img/mtg_rare_symbol.png">|April 23 2019|Jhoira, Weatherlight Captain
+[Durdle Hurdle](#user-content-durdle-hurdle)</br> [Hang On...](#user-content-hang-on)</br> [Diabolical](#user-content-diabolical) <img src="http://brianauron.info/img/mtg_mythic_symbol.png"></br> [Storm Chaser](#user-content-storm-chaser) <img src="http://brianauron.info/img/mtg_mythic_symbol.png"></br> [Apex Predator](#user-content-apex-predator)</br>[Dimir](#user-content-dimir)</br> [Azorius](#user-content-azorius)</br> [Orzhov](#user-content-orzhov)</br> [Dimir](#user-content-dimir)</br> [Izzet](#user-content-izzet)</br> [Rakdos](#user-content-rakdos)</br> [Golgari](#user-content-golgari)</br> [Gruul](#user-content-gruul)</br> [Boros](#user-content-boros)</br> [Selesnya](#user-content-selesnya)</br> [Simic](#user-content-simic)</br> [Jeskai](#user-content-jeskai)</br> [Esper](#user-content-esper)</br> [Sultai](#user-content-sultai)</br> [Grixis](#user-content-grixis)</br> [Mardu](#user-content-mardu)</br> [Jund](#user-content-jund)</br> [Temur](#user-content-temur)</br> [Naya](#user-content-Naya)</br> [Abzan](#user-content-abzan)</br> [Bant](#user-content-bant)</br> [Glint-Eye](#user-content-glint-eye)</br> [Dune-Brood](#user-content-dune-brood)</br> [Ink-Treader](#user-content-ink-treader)</br> [Witch-Maw](#user-content-witch-maw)</br> [Yore-Tiller](#user-content-yore-tiller)</br> [WUBRG](#user-content-yore-wubrg)</br> |September 11, 2019|[Kess, Dissident Mage](https://manastack.com/deck/kess-battle-of-wits-winner)
+
 
 ## Dunx
 Achievement | Date | Decklist

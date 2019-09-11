@@ -60,8 +60,8 @@ I got the blues. These dubious "achievements" will git you got, too.
 
 The darkest of the dark. You monster.
 
- Name | Description
-:----:|:-----------:
+ Name | Description | Tiers (if applicable)
+:----:|:-----------:|:----------------------
 <a name="frienemy">Frienemy</a> | Snatch your opponent from the jaws of defeat... then crush them. Win after saving an opponent.
 <a name="millionaire">Millionaire</a> | Win by milling all of your opponents at the same time, you jerk.
 <a name="to-the-traitor-the-spoils">To The Traitor, The Spoils</a> | Win with your opponent's alternate win condition.

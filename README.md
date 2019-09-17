@@ -192,6 +192,7 @@ Achievement | Date | Decklist
 [Durdle Hurdle](#user-content-durdle-hurdle)|June 5 2018|Whatever that insane Vial Smasher + Ikra Shidiqi deck was
 [Shared Victory](#user-content-share)|June 12 2018|Power Cube Draft Deck
 [Millionaire](#user-content-millionaire)|Sometime in 2018|The Scarab God
+[.44 Magnum](#user-content-44-magnum)|September 17, 2019|Yargle, Glutton of Urborg
 
 ## Ashton
 Achievement | Date | Decklist

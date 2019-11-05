@@ -9,7 +9,7 @@
   * [Shard/Wedge Achievements](#shardwedge-achievements)
   * [Nephilim Achievements](#nephilim-achievements)
   * [Rainbow Achievement](#rainbow-achievement)
-  * [Colorless Achievements](#colorless-achievemenrts)
+  * [Colorless Achievements](#colorless-achievements)
 
 * [Achievement Holders](#achievement-holders)
   * [Brian](#brian)

@@ -183,7 +183,7 @@ Tier: <img src="http://brianauron.info/img/mtg_mana_colorless.png">
  Name | Description
 :----:|:------------
 <a name="again-again-again">Again! Again! Again!</a> | Cast or play the same card three times. If you're playing a flashback deck like Elsha, four times.
-<a name="incremental-value">Incremental Value</a> | Only deal increasing amounts of damage.  For example: you tap a Tim to ping for one. The next damage you deal must be at least two, and so on.</a
+<a name="incremental-value">Incremental Value</a> | Only deal increasing amounts of damage.  For example: you tap a Tim to ping for one. The next damage you deal must be at least two, and so on.
 
 ---
 ---

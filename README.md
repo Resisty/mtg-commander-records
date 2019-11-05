@@ -246,7 +246,7 @@ Achievement | Date | Decklist
 :-----------:|:----:|:--------:
 [Inanimate Object Commander Participant](#user-content-inanimate-object-commander-play)|June 14 2018|<a href="https://manastack.com/deck/inanimate-object-commander-profane-prc">Profane Procession</a>
 [Overkill](#user-content-overkill) <img src="http://brianauron.info/img/mtg_rare_symbol.png">|August 17 2018|Estrid, The Masked
-[Again! Again! Again!](#user-content-again-again-again) <img src="http://brianauron.info/img/mtg_rare_symbol.png">| October 17, 2019|Elsha of the Infinite
+[Again! Again! Again!](#user-content-again-again-again) <img src="http://brianauron.info/img/mtg_mana_colorless.png">| October 17, 2019|Elsha of the Infinite
 
 ## Andrew
 Achievement | Date | Decklist
@@ -257,7 +257,7 @@ Achievement | Date | Decklist
 [So Basic](#user-content-so-basic)|September 10 2018|The Ur-Dragon
 [Never Didn't Have It](#user-content-never-didnt-have-it) <img src="http://brianauron.info/img/mtg_mythic_symbol.png">|January 21 2019|Mathas, Fiend Seeker using [Duncan's](#user-content-dunx) Etali, Primal Storm to cast Vicious Shadows
 [To The Traitor, The Spoils](#user-content-to-the-traitor-the-spoils)|January 21 2019|Mathas, Fiend Seeker using [Duncan's](#user-content-dunx) Etali, Primal Storm to cast Vicious Shadows
-[Incremental Value](#user-content-incremental-value) <img src="http://brianauron.info/img/mtg_rare_symbol.png">|October 17, 2019|Edric, Spymaster of Trest
+[Incremental Value](#user-content-incremental-value) <img src="http://brianauron.info/img/mtg_mana_colorless.png">|October 17, 2019|Edric, Spymaster of Trest
 
 ## Joe
 Achievement | Date | Decklist

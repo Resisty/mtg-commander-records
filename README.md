@@ -203,6 +203,7 @@ Achievement | Date | Decklist
 [Never Had It](#user-content-never-had-it) <img src="http://brianauron.info/img/mtg_rare_symbol.png">|March 7 2019|Jodah, Archmage Eternal (Ral Zarek's, Teferi, Hero of Dominaria's, AND Nicol Bolas, God-Pharaoh's ultimate abilities!)
 [Destroyer of Worlds](#user-content-destroyer-of-worlds) <img src="http://brianauron.info/img/mtg_uncommon_symbol.png">|March 12 2019|Intet, the Dreamer (ALL permanents because Mycosynth Lattice -> Bane of Progress)
 [Millionaire](#user-content-millionaire) |June 12 2019|Keranos, God of Storms + Stream of Thought
+[Hang On...](#user-content-hang-on) |November 20 2019|Azami, Lady of Scrolls
 
 ## Jared
 Achievement | Date | Decklist
@@ -232,6 +233,7 @@ Achievement | Date | Decklist
 [Blackjack](#user-content-blackjack) <img src="http://brianauron.info/img/mtg_rare_symbol.png">|August 8 2019|Kazarov, Sengir Pureblood
 [Durdle Hurdle](#user-content-durdle-hurdle)</br> [Hang On...](#user-content-hang-on)</br> [Diabolical](#user-content-diabolical) <img src="http://brianauron.info/img/mtg_mythic_symbol.png"></br> [Storm Chaser](#user-content-storm-chaser) <img src="http://brianauron.info/img/mtg_mythic_symbol.png"></br> [Apex Predator](#user-content-apex-predator)</br>[Dimir](#user-content-dimir)</br> [Azorius](#user-content-azorius)</br> [Orzhov](#user-content-orzhov)</br> [Izzet](#user-content-izzet)</br> [Rakdos](#user-content-rakdos)</br> [Golgari](#user-content-golgari)</br> [Gruul](#user-content-gruul)</br> [Boros](#user-content-boros)</br> [Selesnya](#user-content-selesnya)</br> [Simic](#user-content-simic)</br> [Jeskai](#user-content-jeskai)</br> [Esper](#user-content-esper)</br> [Sultai](#user-content-sultai)</br> [Grixis](#user-content-grixis)</br> [Mardu](#user-content-mardu)</br> [Jund](#user-content-jund)</br> [Temur](#user-content-temur)</br> [Naya](#user-content-Naya)</br> [Abzan](#user-content-abzan)</br> [Bant](#user-content-bant)</br> [Glint-Eye](#user-content-glint-eye)</br> [Dune-Brood](#user-content-dune-brood)</br> [Ink-Treader](#user-content-ink-treader)</br> [Witch-Maw](#user-content-witch-maw)</br> [Yore-Tiller](#user-content-yore-tiller)</br> [WUBRG](#user-content-yore-wubrg)</br> |September 11, 2019|[Kess, Dissident Mage](https://manastack.com/deck/kess-battle-of-wits-winner)
 
+[Hang On...](#user-content-hang-on)</br>[Legacy of the Void](#user-content-legacy-of-the-void) <img src="http://brianauron.info/img/mtg_common_symbol.png"> |November 20 2019|Golos, Tireless Pilgrim (no cards in library)
 
 ## Dunx
 Achievement | Date | Decklist
@@ -258,6 +260,7 @@ Achievement | Date | Decklist
 [Never Didn't Have It](#user-content-never-didnt-have-it) <img src="http://brianauron.info/img/mtg_mythic_symbol.png">|January 21 2019|Mathas, Fiend Seeker using [Duncan's](#user-content-dunx) Etali, Primal Storm to cast Vicious Shadows
 [To The Traitor, The Spoils](#user-content-to-the-traitor-the-spoils)|January 21 2019|Mathas, Fiend Seeker using [Duncan's](#user-content-dunx) Etali, Primal Storm to cast Vicious Shadows
 [Incremental Value](#user-content-incremental-value) <img src="http://brianauron.info/img/mtg_mana_colorless.png">|October 17, 2019|Edric, Spymaster of Trest.</br>Source of command: `Brian Wants To Live Vicariously And Also Watches Too Much Commander VS Live`
+[Hang On...](#user-content-hang-on) |November 20 2019|Golos, Tireless Pilgrim
 
 ## Joe
 Achievement | Date | Decklist

@@ -259,7 +259,7 @@ Achievement | Date | Decklist
 [Never Didn't Have It](#user-content-never-didnt-have-it) <img src="http://brianauron.info/img/mtg_mythic_symbol.png">|January 21 2019|Mathas, Fiend Seeker using [Duncan's](#user-content-dunx) Etali, Primal Storm to cast Vicious Shadows
 [To The Traitor, The Spoils](#user-content-to-the-traitor-the-spoils)|January 21 2019|Mathas, Fiend Seeker using [Duncan's](#user-content-dunx) Etali, Primal Storm to cast Vicious Shadows
 [Incremental Value](#user-content-incremental-value) <img src="http://brianauron.info/img/mtg_mana_colorless.png">|October 17, 2019|Edric, Spymaster of Trest.</br>Source of command: `Brian Wants To Live Vicariously And Also Watches Too Much Commander VS Live`
-[Hang On...](#user-content-hang-on) |November 20 2019|Golos, Tireless Pilgrim
+[Hang On...](#user-content-hang-on) |November 20 2019|Edric, Spymaster of Trest
 
 ## Joe
 Achievement | Date | Decklist

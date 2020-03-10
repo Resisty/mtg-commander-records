@@ -249,7 +249,7 @@ Achievement | Date | Decklist
 [Inanimate Object Commander Participant](#user-content-inanimate-object-commander-play)|June 14 2018|<a href="https://manastack.com/deck/inanimate-object-commander-profane-prc">Profane Procession</a>
 [Overkill](#user-content-overkill) <img src="http://brianauron.info/img/mtg_rare_symbol.png">|August 17 2018|Estrid, The Masked
 [Again! Again! Again!](#user-content-again-again-again) <img src="http://brianauron.info/img/mtg_mana_colorless.png">| October 17, 2019|Elsha of the Infinite</br>Source of command: `Brian Wants To Live Vicariously And Also Watches Too Much Commander VS Live`
-[From Beyond the Veil](#user-content-from-beyond-the-veil) <img src="http://brianauron.info/img/mtg_mana_mythic_symbol.png">| March 10, 2020|Anje Falkenrath</br>Ob Nixilis, Reignited's emblem
+[From Beyond the Veil](#user-content-from-beyond-the-veil) <img src="http://brianauron.info/img/mtg_mythic_symbol.png">| March 10, 2020|Anje Falkenrath</br>Ob Nixilis, Reignited's emblem
 
 ## Andrew
 Achievement | Date | Decklist

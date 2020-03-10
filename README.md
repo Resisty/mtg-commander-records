@@ -68,6 +68,7 @@ The darkest of the dark. You monster.
 <a name="millionaire">Millionaire</a> | Win by milling all of your opponents at the same time, you jerk.
 <a name="to-the-traitor-the-spoils">To The Traitor, The Spoils</a> | Win with your opponent's alternate win condition.
 <a name="Diabolical">Diabolical</a> | Really, guy? Sure, get your cards and win. Tutor way too many times on your turn before winning: | <img src="http://brianauron.info/img/mtg_common_symbol.png"> 3<br/><img src="http://brianauron.info/img/mtg_uncommon_symbol.png"> 5<br/><img src="http://brianauron.info/img/mtg_rare_symbol.png"> 10<br/><img src="http://brianauron.info/img/mtg_mythic_symbol.png"> 15
+<a name="from-beyond-the-veil">From Beyond the Veil</a> | Kill an opponent after losing the game!
 
 ## Mountain Achievements
 
@@ -248,6 +249,7 @@ Achievement | Date | Decklist
 [Inanimate Object Commander Participant](#user-content-inanimate-object-commander-play)|June 14 2018|<a href="https://manastack.com/deck/inanimate-object-commander-profane-prc">Profane Procession</a>
 [Overkill](#user-content-overkill) <img src="http://brianauron.info/img/mtg_rare_symbol.png">|August 17 2018|Estrid, The Masked
 [Again! Again! Again!](#user-content-again-again-again) <img src="http://brianauron.info/img/mtg_mana_colorless.png">| October 17, 2019|Elsha of the Infinite</br>Source of command: `Brian Wants To Live Vicariously And Also Watches Too Much Commander VS Live`
+[From Beyond the Veil](#user-content-from-beyond-the-veil) <img src="http://brianauron.info/img/mtg_mana_mythic.png">| March 10, 2020|Anje Falkenrath</br>Ob Nixilis, Reignited's emblem
 
 ## Andrew
 Achievement | Date | Decklist

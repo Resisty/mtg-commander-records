@@ -242,6 +242,7 @@ Achievement | Date | Decklist
 [So Basic](#user-content-so-basic)|August 9 2018|Marwyn, The Nurturer (only Forests)
 [Atheism](#user-content-atheism)|December 10 2018|Krav the Unredeemed and Regna the Redeemer: "Coupons" (killed Athreos, God of Passage)
 [Shallow Grave](#user-content-shallow-grave)|January 17 2019|Niv-Mizzet, Parun (featuring the Best Card In Magic, Reliquary Tower)
+[.44 Magnum](#user-content-44-magnum)<br/>[Blackjack](#user-content-blackjack) <img src="http://brianauron.info/img/mtg_common_symbol.png">|March 3, 2020|Niv-Mizzet Reborn
 
 ## Hippo
 Achievement | Date | Decklist

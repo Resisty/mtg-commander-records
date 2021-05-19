@@ -1,28 +1,24 @@
 <!--ts-->
-* [What?](#what)
-  * [Plains Achievements](#plains-achievements)
-  * [Island Achievements](#island-achievements)
-  * [Swamp Achievements](#swamp-achievements)
-  * [Mountain Achievements](#mountain-achievements)
-  * [Forest Achievements](#forest-achievements)
-  * [Guild Achievements](#guild-achievements)
-  * [Shard/Wedge Achievements](#shardwedge-achievements)
-  * [Nephilim Achievements](#nephilim-achievements)
-  * [Rainbow Achievement](#rainbow-achievement)
-  * [Colorless Achievements](#colorless-achievements)
-
-* [Achievement Holders](#achievement-holders)
-  * [Brian](#brian)
-  * [Jared](#jared)
-  * [Ashton](#ashton)
-  * [Ben](#ben)
-  * [Dunx](#dunx)
-  * [Hippo](#hippo)
-  * [Andrew](#andrew)
-  * [Joe](#joe)
-
-<!-- Added by: briauron, at: 2018-09-10T20:14:26Z -->
-
+* [What?](README.md#what)
+   * [Plains Achievements](README.md#plains-achievements)
+   * [Island Achievements](README.md#island-achievements)
+   * [Swamp Achievements](README.md#swamp-achievements)
+   * [Mountain Achievements](README.md#mountain-achievements)
+   * [Forest Achievements](README.md#forest-achievements)
+   * [Guild Achievements](README.md#guild-achievements)
+   * [Shard/Wedge Achievements](README.md#shardwedge-achievements)
+   * [Nephilim Achievements](README.md#nephilim-achievements)
+   * [Rainbow Achievement](README.md#rainbow-achievement)
+   * [Colorless Achievements](README.md#colorless-achievements)
+* [Achievement Holders](README.md#achievement-holders)
+   * [Brian](README.md#brian)
+   * [Jared](README.md#jared)
+   * [Ashton](README.md#ashton)
+   * [Ben](README.md#ben)
+   * [Dunx](README.md#dunx)
+   * [Hippo](README.md#hippo)
+   * [Andrew](README.md#andrew)
+   * [Joe](README.md#joe)
 <!--te-->
 # What?
 
@@ -57,6 +53,7 @@ I got the blues. These dubious "achievements" will git you got, too.
 <a name="hang-on">Hang On...</a> | "Whoa, wait, so let's resolve the stack one thing at a time... anybody got paper? A whiteboard? Anything?" Using a dazzling array of spells, triggers, and mechanics, bring the game to a halt while everybody figures out what the result is and whether they're dead.
 <a name="millefeuile">Millef... Millefieiu... Mill fool.</a> | Like the layers of a delicious pastry, so too are the cards in your deck. Consumed or discard, either way: Mill your entire library in a single turn! Show your enemies how it's done!
 <a name="never-had-it">Never Had It.</a> | You had all the opportunities in the world, but you just couldn't quite get there. Lose the game despite taking | <img src="http://brianauron.info/img/mtg_common_symbol.png"> 1 <br/><img src="http://brianauron.info/img/mtg_uncommon_symbol.png"> 2 <br/><img src="http://brianauron.info/img/mtg_rare_symbol.png"> 3 <br/><img src="http://brianauron.info/img/mtg_mythic_symbol.png"> 5 extra turns.
+<a name="oops">...Oops.</a> | Just a real, solid fuckup.
 
 ## Swamp Achievements
 
@@ -234,6 +231,7 @@ Achievement | Date | Decklist
 [Blackjack](#user-content-blackjack) <img src="http://brianauron.info/img/mtg_rare_symbol.png">|August 8 2019|Kazarov, Sengir Pureblood
 [Durdle Hurdle](#user-content-durdle-hurdle)</br> [Hang On...](#user-content-hang-on)</br> [Diabolical](#user-content-diabolical) <img src="http://brianauron.info/img/mtg_mythic_symbol.png"></br> [Storm Chaser](#user-content-storm-chaser) <img src="http://brianauron.info/img/mtg_mythic_symbol.png"></br> [Apex Predator](#user-content-apex-predator)</br>[Dimir](#user-content-dimir)</br> [Azorius](#user-content-azorius)</br> [Orzhov](#user-content-orzhov)</br> [Izzet](#user-content-izzet)</br> [Rakdos](#user-content-rakdos)</br> [Golgari](#user-content-golgari)</br> [Gruul](#user-content-gruul)</br> [Boros](#user-content-boros)</br> [Selesnya](#user-content-selesnya)</br> [Simic](#user-content-simic)</br> [Jeskai](#user-content-jeskai)</br> [Esper](#user-content-esper)</br> [Sultai](#user-content-sultai)</br> [Grixis](#user-content-grixis)</br> [Mardu](#user-content-mardu)</br> [Jund](#user-content-jund)</br> [Temur](#user-content-temur)</br> [Naya](#user-content-Naya)</br> [Abzan](#user-content-abzan)</br> [Bant](#user-content-bant)</br> [Glint-Eye](#user-content-glint-eye)</br> [Dune-Brood](#user-content-dune-brood)</br> [Ink-Treader](#user-content-ink-treader)</br> [Witch-Maw](#user-content-witch-maw)</br> [Yore-Tiller](#user-content-yore-tiller)</br> [WUBRG](#user-content-yore-wubrg)</br> |September 11, 2019|[Kess, Dissident Mage](https://manastack.com/deck/kess-battle-of-wits-winner)
 [Hang On...](#user-content-hang-on)</br>[Legacy of the Void](#user-content-legacy-of-the-void) <img src="http://brianauron.info/img/mtg_common_symbol.png"> |November 20 2019|Golos, Tireless Pilgrim (no cards in library)
+[...Oops.](#user-content-oops) <img src="http://brianauron.info/img/mtg_mythic_symbol.png"> |May 19 20 2021|Codie, Vociferous Codex: Allure of the Unknown revealed Ulamog, the Infinite Gyre.
 
 ## Dunx
 Achievement | Date | Decklist

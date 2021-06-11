@@ -54,6 +54,7 @@ I got the blues. These dubious "achievements" will git you got, too.
 <a name="millefeuile">Millef... Millefieiu... Mill fool.</a> | Like the layers of a delicious pastry, so too are the cards in your deck. Consumed or discard, either way: Mill your entire library in a single turn! Show your enemies how it's done!
 <a name="never-had-it">Never Had It.</a> | You had all the opportunities in the world, but you just couldn't quite get there. Lose the game despite taking | <img src="http://brianauron.info/img/mtg_common_symbol.png"> 1 <br/><img src="http://brianauron.info/img/mtg_uncommon_symbol.png"> 2 <br/><img src="http://brianauron.info/img/mtg_rare_symbol.png"> 3 <br/><img src="http://brianauron.info/img/mtg_mythic_symbol.png"> 5 extra turns.
 <a name="oops">...Oops.</a> | Just a real, solid fuckup.
+<a name="one-legged-stool">One-Legged Stool</a> | Find out you accidentally included only part of a combo with no support in the rest of the deck, e.g. Stoneforge Mystic and zero equipment ([Brian](README.md#brian)).
 
 ## Swamp Achievements
 
@@ -202,6 +203,7 @@ Achievement | Date | Decklist
 [Destroyer of Worlds](#user-content-destroyer-of-worlds) <img src="http://brianauron.info/img/mtg_uncommon_symbol.png">|March 12 2019|Intet, the Dreamer (ALL permanents because Mycosynth Lattice -> Bane of Progress)
 [Millionaire](#user-content-millionaire) |June 12 2019|Keranos, God of Storms + Stream of Thought
 [Hang On...](#user-content-hang-on) |November 20 2019|Azami, Lady of Scrolls
+[One-Legged Stool](#user-content-one-legged-stool) |June 11, 2021|Killian, Ink Duelist (Stoneforge Mystic plus zero equipment(
 
 ## Jared
 Achievement | Date | Decklist

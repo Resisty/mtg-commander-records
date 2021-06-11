@@ -203,7 +203,7 @@ Achievement | Date | Decklist
 [Destroyer of Worlds](#user-content-destroyer-of-worlds) <img src="http://brianauron.info/img/mtg_uncommon_symbol.png">|March 12 2019|Intet, the Dreamer (ALL permanents because Mycosynth Lattice -> Bane of Progress)
 [Millionaire](#user-content-millionaire) |June 12 2019|Keranos, God of Storms + Stream of Thought
 [Hang On...](#user-content-hang-on) |November 20 2019|Azami, Lady of Scrolls
-[One-Legged Stool](#user-content-one-legged-stool) |June 11, 2021|Killian, Ink Duelist (Stoneforge Mystic plus zero equipment(
+[One-Legged Stool](#user-content-one-legged-stool) |June 11, 2021|Killian, Ink Duelist (Stoneforge Mystic plus zero equipment)
 
 ## Jared
 Achievement | Date | Decklist
